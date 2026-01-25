@@ -183,7 +183,7 @@ The Master's Edge program now includes full software solutions:
 | # | Software | Purpose | Status | Links |
 |---|----------|---------|--------|-------|
 | 11 | **Refferq Referral Engine** | Affiliate/referral program with GHL integration | ✅ **COMPLETE!** | [GitHub](https://github.com/BrettLechtenbrerg/Refferq-Referral-Engine) · [Live App](https://refferq-referral-engine.vercel.app) |
-| 12 | **Competitor Intelligence** | Automated competitor tracking with ChangeDetection.io | 🔜 Coming Soon | |
+| 12 | **Competitor Intel** | Automated competitor tracking with ChangeDetection.io | ✅ **COMPLETE!** | [GitHub](https://github.com/BrettLechtenbrerg/Competitor-Intel) · [Live App](https://competitor-intel.vercel.app) |
 | 13 | **CEO Dashboard** | Pre-built Metabase business dashboards | 🔜 Coming Soon | |
 
 ### Refferq Referral Engine Features:
@@ -194,6 +194,16 @@ The Master's Edge program now includes full software solutions:
 - **GHL Integration** - Native webhook support for Go High Level
 - **Admin Dashboard** - Beautiful interface with analytics
 - **Built-in Help System** - Step-by-step guides (like Performance Review Pro!)
+
+### Competitor Intel Features:
+- **Site Monitoring** - Track unlimited competitor websites 24/7
+- **Change Detection** - Powered by ChangeDetection.io (open-source)
+- **Diff Viewer** - Visual side-by-side comparison of changes
+- **Smart Alerts** - Email, Slack, Discord, and GHL webhook notifications
+- **CSS Selectors** - Focus monitoring on specific page elements
+- **Change History** - Full audit trail with severity filtering
+- **AI Analysis** - Automated insights and recommended actions
+- **GHL Integration** - Trigger workflows when competitors change
 
 ---
 
@@ -358,6 +368,7 @@ Masters Edge Business Program/
 | 1.3 | Jan 25, 2025 | Added Difficult Conversations Coach (4-component system) |
 | 2.0 | Jan 25, 2025 | Added Hiring Oracle (5-component system) - **TIER 2 COMPLETE!** |
 | 3.0 | Jan 25, 2026 | Added Refferq Referral Engine - **FIRST TIER 3 SOFTWARE!** |
+| 3.1 | Jan 25, 2026 | Added Competitor Intel - **SECOND TIER 3 SOFTWARE!** |
 
 ---
 
@@ -368,10 +379,10 @@ Masters Edge Business Program/
 | Quick Win Prompts | 6 | ✅ Complete |
 | Flagship Systems (Tier 2) | 4 | ✅ Complete |
 | Tier 2 Components | 25 | ✅ Complete |
-| Tier 3 Software | 1 of 3 | 🚧 In Progress |
+| Tier 3 Software | 2 of 3 | 🚧 In Progress |
 
 **Tier 2 Total: 25 markdown files across 10 folders**
-**Tier 3 Total: 1 full software application (Refferq)**
+**Tier 3 Total: 2 full software applications (Refferq + Competitor Intel)**
 
 ### Related Projects (Full Software)
 
@@ -379,6 +390,7 @@ Masters Edge Business Program/
 |---------|--------|----------|
 | **Performance Review Pro** | [GitHub](https://github.com/BrettLechtenbrerg/Performance-Review-Pro) | [Vercel](https://performance-review-pro.vercel.app) |
 | **Refferq Referral Engine** | [GitHub](https://github.com/BrettLechtenbrerg/Refferq-Referral-Engine) | [Vercel](https://refferq-referral-engine.vercel.app) |
+| **Competitor Intel** | [GitHub](https://github.com/BrettLechtenbrerg/Competitor-Intel) | [Vercel](https://competitor-intel.vercel.app) |
 
 ---
 
