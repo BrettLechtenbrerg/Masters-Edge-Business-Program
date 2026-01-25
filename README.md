@@ -400,6 +400,7 @@ For questions, suggestions, or to report issues with these tools, contact the Ma
 
 ---
 
+*© 2025 Total Success AI. All rights reserved.*
 *Built with Claude Code*
 *Part of The Master's Edge Business Program*
 *"Hire for values, train for skills."*
