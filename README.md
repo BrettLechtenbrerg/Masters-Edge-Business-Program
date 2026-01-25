@@ -174,14 +174,26 @@ All Tier 2 Medium-Build Tools are now complete:
 
 ---
 
-## Coming Soon: Tier 3
+## Tier 3: Software Integrations (In Progress)
 
-The Master's Edge program will continue to expand with full software integrations:
+The Master's Edge program now includes full software solutions:
 
 ### Tier 3: Full Software (Open Source Integrations)
-- **CEO Dashboard Templates** - Pre-built Metabase dashboards
-- **Referral Engine Setup** - Open-source referral system
-- **Competitor Intelligence System** - Automated competitor tracking
+
+| # | Software | Purpose | Status | Links |
+|---|----------|---------|--------|-------|
+| 11 | **Refferq Referral Engine** | Affiliate/referral program with GHL integration | ✅ **COMPLETE!** | [GitHub](https://github.com/BrettLechtenbrerg/Refferq-Referral-Engine) · [Live App](https://refferq-referral-engine.vercel.app) |
+| 12 | **Competitor Intelligence** | Automated competitor tracking with ChangeDetection.io | 🔜 Coming Soon | |
+| 13 | **CEO Dashboard** | Pre-built Metabase business dashboards | 🔜 Coming Soon | |
+
+### Refferq Referral Engine Features:
+- **Affiliate Management** - Add, track, and manage unlimited affiliates
+- **Referral Tracking** - Cookie-based attribution with customizable duration
+- **Commission Calculator** - Percentage, flat-rate, or tiered structures
+- **Payout Processing** - PayPal, Stripe, Bank Transfer, Wise support
+- **GHL Integration** - Native webhook support for Go High Level
+- **Admin Dashboard** - Beautiful interface with analytics
+- **Built-in Help System** - Step-by-step guides (like Performance Review Pro!)
 
 ---
 
@@ -196,6 +208,7 @@ These prompts work seamlessly with other Master's Edge tools:
 | **Brand Book Prompt** | Partnership Evaluator (values alignment), Job Description Generator (culture/voice), Hiring Oracle (culture-fit screening) |
 | **Board of Advisors App** | All tools - get advisor input |
 | **Performance Review Pro** | Difficult Conversations Coach + Hiring Oracle (same people-first principles) |
+| **Refferq Referral Engine** | GHL Automation Blueprint (webhook setup), SOP Factory (document referral processes) |
 
 ---
 
@@ -344,6 +357,7 @@ Masters Edge Business Program/
 | 1.2 | Jan 25, 2025 | Added SOP Factory (5-component system) |
 | 1.3 | Jan 25, 2025 | Added Difficult Conversations Coach (4-component system) |
 | 2.0 | Jan 25, 2025 | Added Hiring Oracle (5-component system) - **TIER 2 COMPLETE!** |
+| 3.0 | Jan 25, 2026 | Added Refferq Referral Engine - **FIRST TIER 3 SOFTWARE!** |
 
 ---
 
@@ -352,11 +366,19 @@ Masters Edge Business Program/
 | Category | Count | Status |
 |----------|-------|--------|
 | Quick Win Prompts | 6 | ✅ Complete |
-| Flagship Systems | 4 | ✅ Complete |
-| Total Components | 25 | ✅ Complete |
-| Tier 3 (Coming) | 3 | 🔜 Planned |
+| Flagship Systems (Tier 2) | 4 | ✅ Complete |
+| Tier 2 Components | 25 | ✅ Complete |
+| Tier 3 Software | 1 of 3 | 🚧 In Progress |
 
-**Total Files Created: 25 markdown files across 10 folders**
+**Tier 2 Total: 25 markdown files across 10 folders**
+**Tier 3 Total: 1 full software application (Refferq)**
+
+### Related Projects (Full Software)
+
+| Project | GitHub | Live App |
+|---------|--------|----------|
+| **Performance Review Pro** | [GitHub](https://github.com/BrettLechtenbrerg/Performance-Review-Pro) | [Vercel](https://performance-review-pro.vercel.app) |
+| **Refferq Referral Engine** | [GitHub](https://github.com/BrettLechtenbrerg/Refferq-Referral-Engine) | [Vercel](https://refferq-referral-engine.vercel.app) |
 
 ---
 
