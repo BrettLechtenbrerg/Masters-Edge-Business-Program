@@ -17,7 +17,7 @@
 ```
 
 ### Total Contents
-- **14 Folders** (6 Quick Wins + 6 Flagship Systems + 2 Tier 3)
+- **15 Folders** (6 Quick Wins + 6 Flagship Systems + 3 Tier 3)
 - **40 Markdown Files** (39 tools + 1 README)
 - **2 Reference Documents** (this manifest + research archive)
 
@@ -215,6 +215,22 @@
 
 ---
 
+### 15-Competitor-Intelligence/ (Tier 3)
+
+| File | Purpose | Lines | Status |
+|------|---------|-------|--------|
+| COMPETITOR-INTELLIGENCE.md | Main system overview and architecture | 250+ | ✅ Complete |
+| CHANGEDETECTION-SETUP-GUIDE.md | Install, configure, deploy ChangeDetection.io | 450+ | ✅ Complete |
+| MONITORING-STRATEGIES.md | What to monitor, how often, and why | 500+ | ✅ Complete |
+| ALERT-WORKFLOWS.md | GHL webhook integration and notification setup | 550+ | ✅ Complete |
+| COMPETITIVE-ANALYSIS-TEMPLATES.md | Templates for analyzing and acting on intel | 600+ | ✅ Complete |
+
+**Total:** 5 files, 2,350+ lines
+**Architecture:** ChangeDetection.io (self-hosted or cloud) → GHL Webhooks → Automated Alerts & Logging
+**Usage:** Automated competitor website monitoring with visual diffs, priority routing, and actionable templates
+
+---
+
 ## Related Projects & Integrations
 
 ### Performance Review Pro
@@ -259,14 +275,14 @@
 - 28 total files
 - Full integration between systems
 
-### Tier 3: Open Source Integrations 🚧 IN PROGRESS
+### Tier 3: Open Source Integrations ✅ COMPLETE
 GHL-native tools with lightweight open source components:
 
 | Tool | Architecture | Status |
 |------|-------------|--------|
 | Referral Engine | GHL-Native + Vercel Tracking | ✅ Complete |
 | CEO Dashboard | Metabase + GHL API Sync + Supabase | ✅ Complete |
-| Competitor Intelligence | ChangeDetection.io + GHL | 🔜 Planned |
+| Competitor Intelligence | ChangeDetection.io + GHL Webhooks | ✅ Complete |
 
 ---
 
@@ -376,6 +392,7 @@ git push -u origin main
 | 3.3 | Jan 27, 2026 | Brand Book Creator (4 files) + P&L Creation System (5 files) |
 | 3.4 | Jan 27, 2026 | Referral Engine - GHL-Native (5 files) - **TIER 3 STARTED** |
 | 3.5 | Jan 28, 2026 | CEO Dashboard (5 files, 2,620+ lines) - Metabase + GHL API Sync |
+| 3.6 | Jan 28, 2026 | Competitor Intelligence (5 files, 2,350+ lines) - **TIER 3 COMPLETE** |
 
 ---
 
@@ -383,15 +400,16 @@ git push -u origin main
 
 | Metric | Count |
 |--------|-------|
-| Total Folders | 14 |
-| Total Markdown Files | 47 (including manifest & research) |
-| Total Lines of Content | ~23,800+ |
+| Total Folders | 15 |
+| Total Markdown Files | 52 (including manifest & research) |
+| Total Lines of Content | ~26,200+ |
 | Quick Win Prompts | 6 |
 | Flagship Systems | 6 |
 | Individual Components | 28 |
-| Tier 3 Systems | 2 (GHL-Native Referral Engine + CEO Dashboard) |
+| Tier 3 Systems | 3 (Referral Engine + CEO Dashboard + Competitor Intel) |
 | CEO Dashboard KPIs | 25+ |
 | SQL Queries Defined | 32+ |
+| Competitor Monitoring Templates | 7 |
 | Roleplay Scenarios | 10 |
 | Interview Questions | 150+ |
 | Brand Book Sections | 15 |
