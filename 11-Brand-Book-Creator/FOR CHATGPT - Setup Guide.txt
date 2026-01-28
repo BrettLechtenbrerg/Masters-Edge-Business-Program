@@ -1,0 +1,86 @@
+============================================
+HOW TO BUILD YOUR BRAND BOOK
+USING CHATGPT
+============================================
+
+This guide is for ChatGPT users.
+(If you use Claude, see the "FOR CLAUDE" files instead)
+
+You need: ChatGPT Plus subscription ($20/month)
+
+============================================
+
+OPTION A: CREATE YOUR OWN CUSTOM GPT
+(Takes 5 minutes to set up, then use forever)
+
+--------------------------------------------
+
+STEP 1: GO TO CHATGPT
+Open your browser and go to: chat.openai.com
+Log in to your ChatGPT Plus account
+
+
+STEP 2: CREATE A NEW GPT
+1. Click your profile picture (bottom left)
+2. Click "My GPTs"
+3. Click "+ Create a GPT"
+
+
+STEP 3: CONFIGURE YOUR GPT
+Click the "Configure" tab at the top, then fill in:
+
+NAME:
+Brand Book Creator
+
+DESCRIPTION:
+Create a complete, professional brand book for your business
+
+INSTRUCTIONS:
+Open the file "FOR CHATGPT - Brand Book Instructions.txt"
+Copy ONLY the text between START and STOP
+Paste it here
+
+
+STEP 4: SAVE YOUR GPT
+1. Click "Save" in the top right
+2. Choose "Only me" (or share with others if you want)
+3. Click "Confirm"
+
+
+STEP 5: USE IT!
+1. Your GPT now appears in "My GPTs"
+2. Click it to start a new chat
+3. Type: "Let's create my brand book"
+4. Follow along as it guides you through 15 sections
+
+
+============================================
+
+OPTION B: JUST PASTE INTO A REGULAR CHAT
+(Quicker but doesn't save for next time)
+
+--------------------------------------------
+
+1. Go to chat.openai.com
+2. Start a new chat
+3. Open "FOR CHATGPT - Brand Book Instructions.txt"
+4. Copy the text between START and STOP
+5. Paste it into the chat
+6. Press Enter
+7. Then type: "Let's create my brand book"
+
+
+============================================
+
+TIPS FOR BEST RESULTS
+
+- Take your time with answers
+- If stuck, say "I'm not sure, give me options"
+- You can take breaks and come back
+- Say "let's revise that" to change anything
+- At the end, say "give me my complete brand book"
+
+
+============================================
+Part of The Master's Edge Business Program
+============================================
