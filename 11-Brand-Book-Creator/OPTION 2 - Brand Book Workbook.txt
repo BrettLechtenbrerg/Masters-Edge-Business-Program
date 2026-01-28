@@ -1,643 +1,981 @@
-============================================
-YOUR BRAND BOOK WORKBOOK
-The Master's Edge Business Program
-============================================
 
-HOW TO USE THIS WORKBOOK
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                    ┌─────────────────┐                       ║
+║                    │                 │                        ║
+║                    │   YOUR LOGO     │                        ║
+║                    │     HERE        │                        ║
+║                    │                 │                        ║
+║                    └─────────────────┘                        ║
+║                                                              ║
+║                                                              ║
+║            B R A N D   B O O K   W O R K B O O K             ║
+║           ─────────────────────────────────────               ║
+║                                                              ║
+║               Build the playbook that keeps                  ║
+║            your business consistent, professional,           ║
+║              and recognizable as you grow.                   ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║         ┌──────────────────────────────────────┐             ║
+║         │                                      │             ║
+║         │  Business Name: ____________________ │             ║
+║         │                                      │             ║
+║         │  Your Name: ________________________ │             ║
+║         │                                      │             ║
+║         │  Date Started: _____________________ │             ║
+║         │                                      │             ║
+║         │  Date Completed: ___________________ │             ║
+║         │                                      │             ║
+║         └──────────────────────────────────────┘             ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║                                                              ║
+║   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─     ║
+║                                                              ║
+║              The Master's Edge Business Program              ║
+║                                                              ║
+║           Brought to you by Total Success AI                 ║
+║          "Automate the grind. Elevate the human."            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WELCOME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  You're about to build one of the most valuable documents
+  your business will ever have — your Brand Book.
+
+  This workbook walks you through 15 sections that cover
+  everything from your core purpose to your visual identity.
+  When you're done, AI will transform your answers into a
+  polished, professional brand book you can share with your
+  team, designers, and marketing people.
+
+  ┌─────────────────────────────────────────────────────────┐
+  │                                                         │
+  │  BEFORE YOU START                                       │
+  │                                                         │
+  │  • There are no wrong answers. Write naturally.         │
+  │  • Skip anything you're unsure about — the AI          │
+  │    will help fill gaps based on your other answers.     │
+  │  • Short answers are fine. Honest beats perfect.        │
+  │  • Take your time. Do it in one sitting or over a      │
+  │    week — whatever works for you.                       │
+  │                                                         │
+  │  ESTIMATED TIME: 30–60 minutes                          │
+  │                                                         │
+  └─────────────────────────────────────────────────────────┘
+
+  WHEN YOU'RE FINISHED:
+  Follow the instructions in the file called
+  "OPTION 2 - Paste This With Your Answers" to turn
+  your completed workbook into your brand book.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  YOUR PROGRESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Check off each section as you complete it:
+
+  [ ]  1.  Brand Foundation          [ ]  9.  Visual Identity
+  [ ]  2.  Brand Story               [ ] 10.  Typography
+  [ ]  3.  Voice & Tone              [ ] 11.  Brand Hashtags
+  [ ]  4.  Copy Style                [ ] 12.  Keywords
+  [ ]  5.  Brand Personality         [ ] 13.  Trademark Usage
+  [ ]  6.  Target Audience           [ ] 14.  Usage Guidelines
+  [ ]  7.  Elevator Pitches          [ ] 15.  Output Preferences
+  [ ]  8.  Key Messages
+
+
+
 
-This workbook walks you through 15 sections that make up your
-complete brand book. Fill in each section at your own pace —
-take an hour, take a week, come back to it whenever you want.
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                              ┃
+┃   PART ONE: WHO YOU ARE                                      ┃
+┃   Sections 1–2                                               ┃
+┃                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-TIPS:
-  - Write naturally. Don't overthink it.
-  - "I don't know" is fine — skip it and come back later.
-  - Short answers are okay. The AI will help polish them.
-  - Be honest. The best brand books sound like YOU.
 
-When you're done, follow the instructions in
-"OPTION 2 - Paste This With Your Answers" to turn your
-workbook into a polished, professional brand book.
+──────────────────────────────────────────────────────────────
+  SECTION 1 OF 15
+  BRAND FOUNDATION
+──────────────────────────────────────────────────────────────
 
-Let's get started.
+  This is the core of who you are — your reason for
+  existing and the beliefs that guide everything you do.
+  Everything else in your brand book builds on this.
 
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-============================================
-SECTION 1: BRAND FOUNDATION
-============================================
+  BUSINESS NAME:
 
-This is the core of who you are — your reason for existing
-and the beliefs that guide everything you do.
+  __________________________________________________________
 
 
-BUSINESS NAME:
-_________________________________________________
+  ONE-SENTENCE DESCRIPTION
+  What do you do? In plain English, like you're
+  telling a neighbor.
 
+  __________________________________________________________
+  __________________________________________________________
 
-ONE-SENTENCE DESCRIPTION (What do you do?):
-_________________________________________________
-_________________________________________________
 
+  PURPOSE
+  Why does your business exist beyond making money?
+  What problem are you solving or change are you creating?
 
-PURPOSE (Why does your business exist beyond making money?
-What problem are you solving or change are you creating?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
 
-VISION (Imagine your business 10 years from now, wildly
-successful. What does the world look like because you exist?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  VISION
+  Imagine your business 10 years from now, wildly
+  successful. What does the world look like because
+  you exist?
 
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-MISSION (What do you do, for whom, and how? This is your
-day-to-day focus.):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+  MISSION
+  What do you do, for whom, and how?
+  This is your day-to-day focus.
 
-CORE VALUES (List 3-5 principles that guide every decision
-in your business. What do you stand for no matter what?):
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-Value 1: _______________________________________________
-  What it means to us: _________________________________
-  ______________________________________________________
 
-Value 2: _______________________________________________
-  What it means to us: _________________________________
-  ______________________________________________________
+  CORE VALUES
+  List 3–5 principles that guide every decision in
+  your business. What do you stand for no matter what?
 
-Value 3: _______________________________________________
-  What it means to us: _________________________________
-  ______________________________________________________
+  ┌─────────────────────────────────────────────────────┐
+  │ Value 1: __________________________________________ │
+  │ What it means: ____________________________________ │
+  │ __________________________________________________ │
+  ├─────────────────────────────────────────────────────┤
+  │ Value 2: __________________________________________ │
+  │ What it means: ____________________________________ │
+  │ __________________________________________________ │
+  ├─────────────────────────────────────────────────────┤
+  │ Value 3: __________________________________________ │
+  │ What it means: ____________________________________ │
+  │ __________________________________________________ │
+  ├─────────────────────────────────────────────────────┤
+  │ Value 4: __________________________________________ │
+  │ What it means: ____________________________________ │
+  │ __________________________________________________ │
+  ├─────────────────────────────────────────────────────┤
+  │ Value 5: __________________________________________ │
+  │ What it means: ____________________________________ │
+  │ __________________________________________________ │
+  └─────────────────────────────────────────────────────┘
 
-Value 4: _______________________________________________
-  What it means to us: _________________________________
-  ______________________________________________________
+                                       Section 1 of 15 ✓
 
-Value 5: _______________________________________________
-  What it means to us: _________________________________
-  ______________________________________________________
 
+──────────────────────────────────────────────────────────────
+  SECTION 2 OF 15
+  BRAND STORY
+──────────────────────────────────────────────────────────────
 
+  Every great brand has a story. This is how your
+  customers connect with you emotionally — the real,
+  human reason behind what you do.
 
-============================================
-SECTION 2: BRAND STORY
-============================================
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-Every great brand has a story. This is how customers
-connect with you emotionally.
+  HOW DID YOUR BUSINESS START?
+  What sparked the idea?
 
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-HOW DID YOUR BUSINESS START? (What sparked the idea?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+  WHAT PROBLEM DID YOU SEE?
+  What wasn't being solved that you knew you could fix?
 
-WHAT PROBLEM DID YOU SEE? (What wasn't being solved?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
 
-WHAT OBSTACLES HAVE YOU OVERCOME? (What did you learn?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  WHAT OBSTACLES HAVE YOU OVERCOME?
+  What challenges shaped who you are today?
 
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-HOW DO YOU TRANSFORM YOUR CUSTOMERS' LIVES?
-(What's different for them after working with you?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+  HOW DO YOU TRANSFORM YOUR CUSTOMERS' LIVES?
+  What's different for them after working with you?
 
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-============================================
-SECTION 3: VOICE & TONE
-============================================
+                                       Section 2 of 15 ✓
 
-Your brand voice is HOW you communicate — it should sound
-the same everywhere: website, social media, emails, in person.
 
 
-IF YOUR BRAND WERE A PERSON AT A PARTY, HOW WOULD THEY ACT?
-(Formal or casual? Serious or playful? Loud or quiet?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                              ┃
+┃   PART TWO: HOW YOU SOUND                                    ┃
+┃   Sections 3–5                                               ┃
+┃                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-PICK 3-4 WORDS THAT DESCRIBE HOW YOU WANT TO SOUND
-(Examples: Bold, Warm, Expert, Friendly, Witty,
-Straightforward, Inspiring, Professional, Playful):
 
-1. ______________________
-2. ______________________
-3. ______________________
-4. ______________________
+──────────────────────────────────────────────────────────────
+  SECTION 3 OF 15
+  VOICE & TONE
+──────────────────────────────────────────────────────────────
 
+  Your brand voice is HOW you communicate. It should
+  sound the same everywhere — website, social media,
+  emails, phone calls, in person.
 
-WHAT TONE DO YOU WANT TO AVOID?
-(Examples: Stuffy, Salesy, Too casual, Corporate,
-Condescending, Aggressive):
-_________________________________________________
-_________________________________________________
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
+  IF YOUR BRAND WERE A PERSON AT A PARTY,
+  HOW WOULD THEY ACT?
+  Formal or casual? Serious or playful? Loud or quiet?
 
-ARE THERE BRANDS WHOSE VOICE YOU ADMIRE? (Who sounds
-the way you want to sound? Why?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
 
+  PICK 3–4 WORDS THAT DESCRIBE HOW YOU WANT TO SOUND
 
-============================================
-SECTION 4: COPY STYLE
-============================================
+  Examples: Bold, Warm, Expert, Friendly, Witty,
+  Straightforward, Inspiring, Professional, Playful
 
-These are the nuts and bolts of how you write —
-the specific rules for your brand's writing.
+  1. ______________________
+  2. ______________________
+  3. ______________________
+  4. ______________________
 
 
-CONTRACTIONS? (Do you say "we're" or "we are"?):
-_________________________________________________
+  WHAT TONE DO YOU WANT TO AVOID?
+  Examples: Stuffy, Salesy, Too casual, Corporate,
+  Condescending, Aggressive
 
+  __________________________________________________________
+  __________________________________________________________
 
-FIRST OR THIRD PERSON? (Do you say "we believe" or
-"the company believes"?):
-_________________________________________________
 
+  ARE THERE BRANDS WHOSE VOICE YOU ADMIRE?
+  Who sounds the way you want to sound? Why?
 
-SENTENCE LENGTH (Short and punchy? Longer and flowing?
-A mix?):
-_________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
+                                       Section 3 of 15 ✓
 
-WORDS YOU ALWAYS USE (Are there words or phrases that
-feel very "you"?):
-_________________________________________________
-_________________________________________________
 
+──────────────────────────────────────────────────────────────
+  SECTION 4 OF 15
+  COPY STYLE
+──────────────────────────────────────────────────────────────
 
-WORDS YOU NEVER USE (Any words that feel wrong for
-your brand?):
-_________________________________________________
-_________________________________________________
+  Now let's get specific. These are the nuts and bolts
+  of how your brand writes — the rules that keep every
+  email, post, and page sounding like you.
 
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-HOW DO YOU ADDRESS YOUR CUSTOMERS? (By first name?
-As "you"? As "our clients"? Something else?):
-_________________________________________________
+  CONTRACTIONS?
+  Do you say "we're" or "we are"?
 
+  __________________________________________________________
 
-PUNCTUATION & FORMATTING (Exclamation points? Emojis?
-Oxford comma? All caps for emphasis?):
-_________________________________________________
-_________________________________________________
 
+  FIRST OR THIRD PERSON?
+  Do you say "we believe" or "the company believes"?
 
+  __________________________________________________________
 
-============================================
-SECTION 5: BRAND PERSONALITY
-============================================
 
-Let's give your brand specific character traits that
-make you memorable and relatable.
+  SENTENCE LENGTH
+  Short and punchy? Longer and flowing? A mix?
 
+  __________________________________________________________
 
-WHICH ARCHETYPE FITS YOUR BRAND BEST?
-(Pick one or two that feel closest)
 
-[ ] The Helper — You exist to serve others
-[ ] The Expert — You're the authority in your field
-[ ] The Rebel — You challenge the status quo
-[ ] The Friend — You're approachable and relatable
-[ ] The Creator — You innovate and build new things
-[ ] The Leader — You inspire and take charge
+  WORDS YOU ALWAYS USE
+  Are there words or phrases that feel very "you"?
 
-Your pick: _______________________________________________
-Why: ____________________________________________________
-_________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
 
-IF YOUR BRAND WERE A PERSON, LIST 5 PERSONALITY TRAITS:
+  WORDS YOU NEVER USE
+  Any words that feel wrong for your brand?
 
-1. ______________________
-2. ______________________
-3. ______________________
-4. ______________________
-5. ______________________
+  __________________________________________________________
+  __________________________________________________________
 
 
-WHAT DO YOU WANT PEOPLE TO SAY ABOUT YOU WHEN YOU'RE
-NOT IN THE ROOM?
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  HOW DO YOU ADDRESS YOUR CUSTOMERS?
+  By first name? As "you"? As "our clients"?
 
+  __________________________________________________________
 
 
-============================================
-SECTION 6: TARGET AUDIENCE
-============================================
+  PUNCTUATION & FORMATTING
+  Exclamation points? Emojis? Oxford comma?
+  All caps for emphasis?
 
-The clearer you define who you're talking to, the more
-effective everything else becomes.
+  __________________________________________________________
+  __________________________________________________________
 
+                                       Section 4 of 15 ✓
 
-YOUR IDEAL CUSTOMER — DEMOGRAPHICS:
 
-Age range: _______________________________________________
-Location: _______________________________________________
-Job/role: _______________________________________________
-Income level: _______________________________________________
-Education: _______________________________________________
-Other details: _______________________________________________
+──────────────────────────────────────────────────────────────
+  SECTION 5 OF 15
+  BRAND PERSONALITY
+──────────────────────────────────────────────────────────────
 
+  Let's give your brand specific character traits that
+  make you memorable and relatable — like a person
+  people want to know.
 
-YOUR IDEAL CUSTOMER — PSYCHOGRAPHICS:
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-What do they value most? _________________________________
-_________________________________________________________
+  WHICH ARCHETYPE FITS YOUR BRAND BEST?
+  Pick one or two that feel closest.
 
-What keeps them up at night? _____________________________
-_________________________________________________________
+  ┌──────────────────────────────────────────────────────┐
+  │                                                      │
+  │  [ ] The Helper  — You exist to serve others         │
+  │  [ ] The Expert  — You're the authority              │
+  │  [ ] The Rebel   — You challenge the status quo      │
+  │  [ ] The Friend  — You're approachable & relatable   │
+  │  [ ] The Creator — You innovate & build new things   │
+  │  [ ] The Leader  — You inspire & take charge         │
+  │                                                      │
+  └──────────────────────────────────────────────────────┘
 
-What do they aspire to? __________________________________
-_________________________________________________________
+  Your pick: ______________________________________________
+  Why this fits: __________________________________________
+  _________________________________________________________
 
 
-THEIR LIFE BEFORE YOU (What's their situation before they
-find your business?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  IF YOUR BRAND WERE A PERSON, WHAT 5 TRAITS
+  WOULD DESCRIBE THEM?
 
+  1. ______________________
+  2. ______________________
+  3. ______________________
+  4. ______________________
+  5. ______________________
 
-THEIR LIFE AFTER YOU (What's different after they work
-with you?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+  WHAT DO YOU WANT PEOPLE TO SAY ABOUT YOU
+  WHEN YOU'RE NOT IN THE ROOM?
 
-WHERE DO THEY HANG OUT?
-(Online: which platforms, groups, podcasts, YouTube channels?)
-_________________________________________________
-_________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-(Offline: events, associations, locations?)
-_________________________________________________
-_________________________________________________
+                                       Section 5 of 15 ✓
 
 
-DO YOU HAVE A SECONDARY AUDIENCE? (If yes, describe them):
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                              ┃
+┃   PART THREE: WHO YOU'RE TALKING TO                          ┃
+┃   Section 6                                                  ┃
+┃                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-============================================
-SECTION 7: ELEVATOR PITCHES
-============================================
 
-Quick descriptions of your brand for different situations.
+──────────────────────────────────────────────────────────────
+  SECTION 6 OF 15
+  TARGET AUDIENCE
+──────────────────────────────────────────────────────────────
 
+  The clearer you define who you're talking to, the
+  more effective everything else becomes. Get specific.
 
-ONE SENTENCE — How would you describe your business to a
-stranger? (The "5-second pitch"):
-_________________________________________________
-_________________________________________________
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
+  YOUR IDEAL CUSTOMER — DEMOGRAPHICS
 
-30-SECOND VERSION — What if you had 30 seconds to explain
-what makes you special?
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  ┌──────────────────────────────────────────────────────┐
+  │ Age range:      ___________________________________  │
+  │ Location:       ___________________________________  │
+  │ Job / role:     ___________________________________  │
+  │ Income level:   ___________________________________  │
+  │ Education:      ___________________________________  │
+  │ Other details:  ___________________________________  │
+  └──────────────────────────────────────────────────────┘
 
 
-DOES YOUR PITCH CHANGE FOR DIFFERENT AUDIENCES?
-(If yes, how would you describe yourself to each?)
+  YOUR IDEAL CUSTOMER — PSYCHOGRAPHICS
 
-Audience 1 (_______________): ____________________________
-_________________________________________________________
+  What do they value most?
+  __________________________________________________________
+  __________________________________________________________
 
-Audience 2 (_______________): ____________________________
-_________________________________________________________
+  What keeps them up at night?
+  __________________________________________________________
+  __________________________________________________________
 
-Audience 3 (_______________): ____________________________
-_________________________________________________________
+  What do they aspire to?
+  __________________________________________________________
+  __________________________________________________________
 
 
+  THEIR LIFE BEFORE YOU
+  What's their situation before they find your business?
 
-============================================
-SECTION 8: KEY MESSAGES
-============================================
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-These are your core talking points — the messages you
-want people to remember and repeat.
 
+  THEIR LIFE AFTER YOU
+  What's different after they work with you?
 
-THE ONE THING (What's the single most important thing
-you want everyone to know about your business?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
 
-3-4 SUPPORTING POINTS (What backs up that main message?):
+  WHERE DO THEY HANG OUT?
 
-1. ______________________________________________________
-   ______________________________________________________
+  Online (platforms, groups, podcasts, YouTube channels):
+  __________________________________________________________
+  __________________________________________________________
 
-2. ______________________________________________________
-   ______________________________________________________
+  Offline (events, associations, locations):
+  __________________________________________________________
+  __________________________________________________________
 
-3. ______________________________________________________
-   ______________________________________________________
 
-4. ______________________________________________________
-   ______________________________________________________
+  DO YOU HAVE A SECONDARY AUDIENCE?
+  If yes, describe them briefly.
 
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-PROOF POINTS (What evidence backs up your claims?
-Awards, numbers, testimonials, years of experience?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
+                                       Section 6 of 15 ✓
 
 
-WHAT MAKES YOU DIFFERENT FROM COMPETITORS?
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                              ┃
+┃   PART FOUR: WHAT YOU SAY                                    ┃
+┃   Sections 7–8                                               ┃
+┃                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-============================================
-SECTION 9: VISUAL IDENTITY
-============================================
 
-How your brand LOOKS — even if you already have a logo
-and colors, let's document the "why" behind them.
+──────────────────────────────────────────────────────────────
+  SECTION 7 OF 15
+  ELEVATOR PITCHES
+──────────────────────────────────────────────────────────────
 
+  Quick descriptions of your brand for different
+  situations — from a handshake to a conversation.
 
-DO YOU HAVE AN EXISTING LOGO? (Describe it):
-_________________________________________________
-_________________________________________________
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
+  ONE SENTENCE
+  How would you describe your business to a stranger?
+  (The "5-second pitch")
 
-DO YOU HAVE EXISTING BRAND COLORS? (List them with hex
-codes if you have them):
+  __________________________________________________________
+  __________________________________________________________
 
-Primary color: _________________ Hex: ___________
-Secondary color: _________________ Hex: ___________
-Accent color: _________________ Hex: ___________
-Other colors: _________________ Hex: ___________
 
+  30-SECOND VERSION
+  What if you had 30 seconds to explain what makes
+  you special?
 
-WHAT FEELING SHOULD YOUR VISUALS EVOKE?
-(Examples: Modern, Warm, Bold, Minimal, Luxurious,
-Earthy, Energetic, Clean, Rustic):
-_________________________________________________
-_________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
 
-WHAT EMOTIONS DO YOU WANT YOUR COLORS TO CONVEY?
-_________________________________________________
-_________________________________________________
+  DOES YOUR PITCH CHANGE FOR DIFFERENT AUDIENCES?
+  If yes, how would you describe yourself to each?
 
+  ┌──────────────────────────────────────────────────────┐
+  │ Audience 1 (_______________):                        │
+  │ ___________________________________________________  │
+  │ ___________________________________________________  │
+  ├──────────────────────────────────────────────────────┤
+  │ Audience 2 (_______________):                        │
+  │ ___________________________________________________  │
+  │ ___________________________________________________  │
+  ├──────────────────────────────────────────────────────┤
+  │ Audience 3 (_______________):                        │
+  │ ___________________________________________________  │
+  │ ___________________________________________________  │
+  └──────────────────────────────────────────────────────┘
 
-WHAT KIND OF IMAGES REPRESENT YOUR BRAND?
-(People? Abstract? Nature? Product shots? Lifestyle?
-Illustrations?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
+                                       Section 7 of 15 ✓
 
 
+──────────────────────────────────────────────────────────────
+  SECTION 8 OF 15
+  KEY MESSAGES
+──────────────────────────────────────────────────────────────
 
-============================================
-SECTION 10: TYPOGRAPHY
-============================================
+  These are your core talking points — the messages
+  you want people to remember and repeat about you.
 
-Fonts communicate more than words.
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
+  THE ONE THING
+  What's the single most important thing you want
+  everyone to know about your business?
 
-DO YOU ALREADY USE SPECIFIC FONTS? (List them):
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-Heading font: _______________________________________________
-Body font: _______________________________________________
-Other fonts: _______________________________________________
 
+  3–4 SUPPORTING POINTS
+  What backs up that main message?
 
-WHAT FEELING SHOULD YOUR FONTS GIVE?
-(Examples: Professional, Friendly, Creative, Modern,
-Classic, Bold, Elegant):
-_________________________________________________
+  ┌──────────────────────────────────────────────────────┐
+  │ 1. ________________________________________________  │
+  │    ________________________________________________  │
+  ├──────────────────────────────────────────────────────┤
+  │ 2. ________________________________________________  │
+  │    ________________________________________________  │
+  ├──────────────────────────────────────────────────────┤
+  │ 3. ________________________________________________  │
+  │    ________________________________________________  │
+  ├──────────────────────────────────────────────────────┤
+  │ 4. ________________________________________________  │
+  │    ________________________________________________  │
+  └──────────────────────────────────────────────────────┘
 
 
-DO YOU WANT DIFFERENT FONTS FOR HEADINGS VS BODY TEXT?
-_________________________________________________
-_________________________________________________
+  PROOF POINTS
+  What evidence backs up your claims? Awards, numbers,
+  testimonials, years of experience?
 
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
 
-============================================
-SECTION 11: BRAND HASHTAGS
-============================================
+  WHAT MAKES YOU DIFFERENT FROM COMPETITORS?
 
-Hashtags help people discover you on social media.
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
+                                       Section 8 of 15 ✓
 
-DO YOU HAVE A UNIQUE BRANDED HASHTAG?
-(Example: Nike = #JustDoIt):
-_________________________________________________
 
 
-WHAT HASHTAGS DOES YOUR AUDIENCE FOLLOW?
-(Industry-specific hashtags):
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                              ┃
+┃   PART FIVE: HOW YOU LOOK                                    ┃
+┃   Sections 9–10                                              ┃
+┃                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-WHAT TOPICS DO YOU POST ABOUT?
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+──────────────────────────────────────────────────────────────
+  SECTION 9 OF 15
+  VISUAL IDENTITY
+──────────────────────────────────────────────────────────────
 
+  How your brand LOOKS. Even if you already have a logo
+  and colors, let's document the "why" behind them.
 
-============================================
-SECTION 12: KEYWORDS
-============================================
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-The terms people use to find businesses like yours.
-Important for SEO and content.
+  DO YOU HAVE AN EXISTING LOGO?
+  Describe it — or paste a link to it.
 
+  __________________________________________________________
+  __________________________________________________________
 
-WHAT WOULD YOUR IDEAL CUSTOMER TYPE INTO GOOGLE TO
-FIND YOU?
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+  YOUR BRAND COLORS
+  List them with hex codes if you have them.
 
-WHAT SPECIFIC TERMS DESCRIBE WHAT YOU OFFER?
-(Products, services, specialties):
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  ┌──────────────────────────────────────────────────────┐
+  │ Primary color:    ___________________  Hex: ________ │
+  │ Secondary color:  ___________________  Hex: ________ │
+  │ Accent color:     ___________________  Hex: ________ │
+  │ Other colors:     ___________________  Hex: ________ │
+  └──────────────────────────────────────────────────────┘
 
 
-DO YOU NEED LOCAL KEYWORDS? (City, state, region):
-_________________________________________________
-_________________________________________________
+  WHAT FEELING SHOULD YOUR VISUALS EVOKE?
+  Examples: Modern, Warm, Bold, Minimal, Luxurious,
+  Earthy, Energetic, Clean, Rustic
 
+  __________________________________________________________
+  __________________________________________________________
 
-WHAT PROBLEMS ARE PEOPLE SEARCHING FOR SOLUTIONS TO
-THAT YOU SOLVE?
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+  WHAT EMOTIONS DO YOU WANT YOUR COLORS TO CONVEY?
 
+  __________________________________________________________
+  __________________________________________________________
 
-============================================
-SECTION 13: TRADEMARK USAGE
-============================================
 
-How your brand name and any trademarked elements
-should be used.
+  WHAT KIND OF IMAGES REPRESENT YOUR BRAND?
+  People? Abstract? Nature? Product shots? Lifestyle?
+  Illustrations?
 
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-EXACT LEGAL BUSINESS NAME:
-_________________________________________________
+                                       Section 9 of 15 ✓
 
 
-IS YOUR NAME TRADEMARKED? (Yes/No/In progress):
-_________________________________________________
+──────────────────────────────────────────────────────────────
+  SECTION 10 OF 15
+  TYPOGRAPHY
+──────────────────────────────────────────────────────────────
 
+  Fonts communicate more than words. The right fonts
+  reinforce your brand personality in everything you
+  publish.
 
-ANY TAGLINES THAT ARE TRADEMARKED?
-_________________________________________________
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
+  DO YOU ALREADY USE SPECIFIC FONTS?
 
-ACCEPTABLE SHORTENED VERSIONS OR NICKNAMES:
-_________________________________________________
-_________________________________________________
+  ┌──────────────────────────────────────────────────────┐
+  │ Heading font: __________________________________     │
+  │ Body font:    __________________________________     │
+  │ Other fonts:  __________________________________     │
+  └──────────────────────────────────────────────────────┘
 
 
-WHAT SHOULD NEVER BE DONE WITH YOUR NAME?
-(Misspellings, abbreviations, modifications to avoid):
-_________________________________________________
-_________________________________________________
-_________________________________________________
+  WHAT FEELING SHOULD YOUR FONTS GIVE?
+  Examples: Professional, Friendly, Creative, Modern,
+  Classic, Bold, Elegant
 
+  __________________________________________________________
 
 
-============================================
-SECTION 14: USAGE GUIDELINES
-============================================
+  DO YOU WANT DIFFERENT FONTS FOR HEADINGS
+  VS BODY TEXT?
 
-Clear do's and don'ts so anyone representing your brand
-stays consistent.
+  __________________________________________________________
+  __________________________________________________________
 
+                                      Section 10 of 15 ✓
 
-WHAT BRAND INCONSISTENCIES ANNOY YOU?
-(What have you seen that drives you crazy?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
 
-WHAT MUST ALWAYS BE TRUE ABOUT YOUR BRAND?
-(Your non-negotiables):
-_________________________________________________
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                              ┃
+┃   PART SIX: HOW PEOPLE FIND YOU                              ┃
+┃   Sections 11–12                                             ┃
+┃                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-WHERE IS THERE ROOM FOR CREATIVITY?
-(What can people play with vs. what's locked in?):
-_________________________________________________
-_________________________________________________
-_________________________________________________
 
+──────────────────────────────────────────────────────────────
+  SECTION 11 OF 15
+  BRAND HASHTAGS
+──────────────────────────────────────────────────────────────
 
+  Hashtags help people discover you on social media.
+  Let's create a strategic set you can use everywhere.
 
-============================================
-SECTION 15: OUTPUT PREFERENCES
-============================================
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
-When your workbook is processed, you can receive up to
-FIVE different versions of your brand book. Check which
-ones you want:
+  DO YOU HAVE A UNIQUE BRANDED HASHTAG?
+  Example: Nike = #JustDoIt
 
-[ ] 1. COMPLETE BRAND BOOK
-    Full 15-section document with table of contents.
-    Your master reference.
-    Best for: You, leadership team, brand archives
+  __________________________________________________________
 
-[ ] 2. QUICK REFERENCE CARD
-    One-page cheat sheet: mission, values, voice,
-    colors, fonts, pitch.
-    Best for: Daily decisions, keeping brand consistent
 
-[ ] 3. SOCIAL MEDIA KIT
-    Platform bios, hashtags, key messages, voice guide,
-    content keywords.
-    Best for: Marketing team, social media managers
+  WHAT HASHTAGS DOES YOUR AUDIENCE FOLLOW?
+  Industry-specific hashtags they'd search for.
 
-[ ] 4. EMPLOYEE ONBOARDING GUIDE
-    Values, personality, voice, story, do's and don'ts.
-    Best for: New hires, contractors, freelancers
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
-[ ] 5. DESIGNER BRIEF
-    Color palette with hex codes, fonts, logo rules,
-    image style.
-    Best for: Graphic designers, web developers
 
-TIP: Pick "all five" if you're not sure. You can always
-use whichever ones you need.
+  WHAT TOPICS DO YOU POST ABOUT?
 
-Your choice: _______________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
 
+                                      Section 11 of 15 ✓
 
 
-============================================
-YOU'RE DONE!
-============================================
+──────────────────────────────────────────────────────────────
+  SECTION 12 OF 15
+  KEYWORDS
+──────────────────────────────────────────────────────────────
 
-Great work! Now follow the instructions in
-"OPTION 2 - Paste This With Your Answers" to turn
-your completed workbook into a polished brand book.
+  These are the terms people use to find businesses
+  like yours. Critical for your website, content, and
+  showing up in search results.
 
-============================================
-Part of The Master's Edge Business Program
-"Automate the grind. Elevate the human."
-============================================
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+  WHAT WOULD YOUR IDEAL CUSTOMER TYPE INTO GOOGLE
+  TO FIND YOU?
+
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+
+
+  WHAT SPECIFIC TERMS DESCRIBE WHAT YOU OFFER?
+  Products, services, specialties.
+
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+
+
+  DO YOU NEED LOCAL KEYWORDS?
+  City, state, region?
+
+  __________________________________________________________
+  __________________________________________________________
+
+
+  WHAT PROBLEMS ARE PEOPLE SEARCHING FOR SOLUTIONS
+  TO THAT YOU SOLVE?
+
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+
+                                      Section 12 of 15 ✓
+
+
+
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                              ┃
+┃   PART SEVEN: PROTECTING YOUR BRAND                          ┃
+┃   Sections 13–14                                             ┃
+┃                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+──────────────────────────────────────────────────────────────
+  SECTION 13 OF 15
+  TRADEMARK USAGE
+──────────────────────────────────────────────────────────────
+
+  Let's document how your brand name and trademarked
+  elements should (and shouldn't) be used.
+
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+  EXACT LEGAL BUSINESS NAME:
+
+  __________________________________________________________
+
+
+  IS YOUR NAME TRADEMARKED?
+  Yes / No / In progress
+
+  __________________________________________________________
+
+
+  ANY TAGLINES THAT ARE TRADEMARKED?
+
+  __________________________________________________________
+
+
+  ACCEPTABLE SHORTENED VERSIONS OR NICKNAMES:
+
+  __________________________________________________________
+  __________________________________________________________
+
+
+  WHAT SHOULD NEVER BE DONE WITH YOUR NAME?
+  Misspellings, abbreviations, modifications to avoid.
+
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+
+                                      Section 13 of 15 ✓
+
+
+──────────────────────────────────────────────────────────────
+  SECTION 14 OF 15
+  USAGE GUIDELINES
+──────────────────────────────────────────────────────────────
+
+  Clear do's and don'ts so anyone representing your
+  brand stays consistent — employees, contractors,
+  designers, everyone.
+
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+  WHAT BRAND INCONSISTENCIES ANNOY YOU?
+  What have you seen that drives you crazy?
+
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+
+
+  WHAT MUST ALWAYS BE TRUE ABOUT YOUR BRAND?
+  Your non-negotiables.
+
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+
+
+  WHERE IS THERE ROOM FOR CREATIVITY?
+  What can people play with vs. what's locked in?
+
+  __________________________________________________________
+  __________________________________________________________
+  __________________________________________________________
+
+                                      Section 14 of 15 ✓
+
+
+
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                              ┃
+┃   FINAL STEP: CHOOSE YOUR OUTPUT                             ┃
+┃   Section 15                                                 ┃
+┃                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+──────────────────────────────────────────────────────────────
+  SECTION 15 OF 15
+  OUTPUT PREFERENCES
+──────────────────────────────────────────────────────────────
+
+  When your workbook is processed, you can receive
+  up to FIVE different versions of your brand book.
+  Check the ones you want:
+
+  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+
+  ┌──────────────────────────────────────────────────────┐
+  │                                                      │
+  │  [ ] 1. COMPLETE BRAND BOOK                          │
+  │        Full 15-section document with table of        │
+  │        contents. Your master reference.              │
+  │        Best for: You, leadership, brand archives     │
+  │                                                      │
+  │  [ ] 2. QUICK REFERENCE CARD                         │
+  │        One-page cheat sheet: mission, values,        │
+  │        voice, colors, fonts, pitch.                  │
+  │        Best for: Daily decisions, quick reference    │
+  │                                                      │
+  │  [ ] 3. SOCIAL MEDIA KIT                             │
+  │        Platform bios, hashtags, key messages,        │
+  │        voice guide, content keywords.                │
+  │        Best for: Marketing team, social managers     │
+  │                                                      │
+  │  [ ] 4. EMPLOYEE ONBOARDING GUIDE                    │
+  │        Values, personality, voice, story,            │
+  │        do's and don'ts.                              │
+  │        Best for: New hires, contractors              │
+  │                                                      │
+  │  [ ] 5. DESIGNER BRIEF                               │
+  │        Color palette with hex codes, fonts,          │
+  │        logo rules, image style.                      │
+  │        Best for: Designers, web developers           │
+  │                                                      │
+  │  TIP: Not sure? Pick "all five" — you can use       │
+  │  whichever ones you need later.                      │
+  │                                                      │
+  └──────────────────────────────────────────────────────┘
+
+  Your choice: ____________________________________________
+
+                                      Section 15 of 15 ✓
+
+
+
+
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                                                              ║
+║                   YOU DID IT!                                 ║
+║                                                              ║
+║       Your workbook is complete. Here's what to do next:     ║
+║                                                              ║
+║       1. Save this file                                      ║
+║       2. Open the file called:                               ║
+║          "OPTION 2 - Paste This With Your Answers"           ║
+║       3. Follow those instructions to turn your answers      ║
+║          into a polished, professional brand book             ║
+║                                                              ║
+║       Your brand book will be generated in whichever         ║
+║       formats you selected in Section 15.                    ║
+║                                                              ║
+║                                                              ║
+║   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─     ║
+║                                                              ║
+║              The Master's Edge Business Program              ║
+║                                                              ║
+║                  ┌─────────────────┐                         ║
+║                  │                 │                          ║
+║                  │  TOTAL SUCCESS  │                          ║
+║                  │      AI         │                          ║
+║                  │                 │                          ║
+║                  └─────────────────┘                          ║
+║                                                              ║
+║          "Automate the grind. Elevate the human."            ║
+║                                                              ║
+║                  totalsuccessai.com                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
