@@ -3,10 +3,10 @@
 
 ---
 
-**Last Updated:** January 28, 2026
-**Status:** ✅ ALL 3 TIERS COMPLETE
-**Last Commit:** `e98c522` — Competitor Intelligence (TIER 3 COMPLETE)
-**Working Tree:** Clean — all changes committed and pushed
+**Last Updated:** January 28, 2026 (5:20 AM MST)
+**Status:** ✅ ALL 3 TIERS COMPLETE + 4 COMPANION APPS
+**Documentation Commit:** `a49c7b1` — RESTART-PROMPT.md updated
+**All Repos:** Clean — all changes committed and pushed
 
 ---
 
@@ -26,17 +26,18 @@ prompts, guides, and GHL-native tools for a Go High Level Learning Portal.
 
 Philosophy: "Automate the grind. Elevate the human."
 
-## Primary Project Location
+## Primary Project Location (Documentation)
 
 /Users/brettlechtenberg/Desktop/Claude Projects/Masters Edge Business Program/
 
 GitHub: https://github.com/BrettLechtenbrerg/Masters-Edge-Business-Program
 Branch: main
-Latest commit: e98c522 (Competitor Intelligence - TIER 3 COMPLETE)
+Latest commit: a49c7b1
 
 ## ✅ PROGRAM STATUS: COMPLETE
 
-All 3 tiers are finished. 15 folders, 64 files, 30,390+ lines of content.
+All 3 tiers are finished. 15 folders, 64 files, 30,435 lines of content.
+Plus 4 companion software applications deployed on Vercel.
 
 ## CRITICAL RULES (Follow These Always)
 
@@ -47,10 +48,11 @@ All 3 tiers are finished. 15 folders, 64 files, 30,390+ lines of content.
 5. Quality products are the main concern
 6. All workbooks must match the design language of the No-Show Killer Workshop Manual
    (Total Success AI branded, time estimates, YOUR STEPS, OUTCOME banners, footer branding)
-7. Keep all files in the Masters Edge Business Program folder
-8. Follow naming conventions: UPPERCASE-WITH-HYPHENS.md
-9. Update PROJECT-MANIFEST.md when adding new content
-10. Commit and push to GitHub when finishing significant work
+7. Keep all DOCUMENTATION files in the Masters Edge Business Program folder
+8. Keep all SOFTWARE in their respective project folders (see below)
+9. Follow naming conventions: UPPERCASE-WITH-HYPHENS.md
+10. Update PROJECT-MANIFEST.md when adding new content
+11. Commit and push to GitHub when finishing significant work
 
 ## Complete System Inventory
 
@@ -99,7 +101,7 @@ This system has TWO delivery options:
 |--------|-------|
 | Total Folders | 15 |
 | Total Files | 64 (.md + .txt) |
-| Total Lines of Content | 30,390+ |
+| Total Lines of Content | 30,435 |
 | Quick Win Prompts | 6 |
 | Flagship Systems | 6 |
 | Tier 3 Systems | 3 |
@@ -112,15 +114,47 @@ This system has TWO delivery options:
 | P&L Financial Metrics | 40+ |
 | GHL Custom Fields Defined | 21 |
 | GHL Workflows Defined | 5 |
+| Companion Software Apps | 4 |
 
-## Related Software Projects (Separate GitHub Repos)
+## 🖥️ COMPANION SOFTWARE APPLICATIONS
 
-| Project | GitHub | Live App |
-|---------|--------|----------|
-| Performance Review Pro | github.com/BrettLechtenbrerg/Performance-Review-Pro | performance-review-pro.vercel.app |
-| Refferq Referral Engine | github.com/BrettLechtenbrerg/Refferq-Referral-Engine | refferq-referral-engine.vercel.app |
-| Competitor Intel | github.com/BrettLechtenbrerg/Competitor-Intel | ts-competitor-intel.vercel.app |
-| CEO Dashboard | github.com/BrettLechtenbrerg/CEO-Dashboard | ts-ceo-dashboard.vercel.app |
+These are SEPARATE Next.js apps in their own GitHub repos, deployed on Vercel.
+They complement the documentation in the Learning Portal.
+
+| App | Local Path | GitHub | Live URL |
+|-----|------------|--------|----------|
+| **Performance Review Pro** | `/Users/brettlechtenberg/Desktop/Claude Projects/Performance Review Pro/` | github.com/BrettLechtenbrerg/Performance-Review-Pro | performance-review-pro.vercel.app |
+| **Refferq Referral Engine** | `/Users/brettlechtenberg/Desktop/Claude Projects/Refferq-Referral-Engine/` | github.com/BrettLechtenbrerg/Refferq-Referral-Engine | refferq-referral-engine.vercel.app |
+| **Competitor Intel** | `/Users/brettlechtenberg/Desktop/Claude Projects/competitor-intel/` | github.com/BrettLechtenbrerg/Competitor-Intel | ts-competitor-intel.vercel.app |
+| **CEO Dashboard** | `/Users/brettlechtenberg/Desktop/Claude Projects/CEO-Dashboard/` | github.com/BrettLechtenbrerg/CEO-Dashboard | ts-ceo-dashboard.vercel.app |
+
+### Latest App Commits
+| App | Commit | Description |
+|-----|--------|-------------|
+| Competitor Intel | de76553 | Fix next/font module error |
+| Refferq | 5398920 | Minor help button update |
+| Performance Review Pro | — | Clean |
+| CEO Dashboard | — | Clean |
+
+### Running Apps Locally
+```bash
+# Competitor Intel
+cd "/Users/brettlechtenberg/Desktop/Claude Projects/competitor-intel"
+npm install && npm run dev
+# Opens at http://localhost:3000 (or 3002 if 3000 is busy)
+
+# Refferq Referral Engine
+cd "/Users/brettlechtenberg/Desktop/Claude Projects/Refferq-Referral-Engine"
+npm install && npm run dev
+
+# CEO Dashboard
+cd "/Users/brettlechtenberg/Desktop/Claude Projects/CEO-Dashboard"
+npm install && npm run dev
+
+# Performance Review Pro
+cd "/Users/brettlechtenberg/Desktop/Claude Projects/Performance Review Pro"
+npm install && npm run dev
+```
 
 ## Desktop Delivery Files (Also in Git)
 
@@ -134,10 +168,11 @@ These files are ALSO on Brett's Desktop for easy access:
 - OPTION 2 - Paste This With Your Answers.txt
 - OPTION 2 - Setup Guide.txt
 
-## Complete Git History
+## Complete Git History (Documentation Repo)
 
 | Commit | Date | Description |
 |--------|------|-------------|
+| a49c7b1 | Jan 28 | Update RESTART-PROMPT.md — PROGRAM COMPLETE |
 | e98c522 | Jan 28 | Competitor Intelligence (5 files) - TIER 3 COMPLETE |
 | cf6b005 | Jan 28 | Update RESTART-PROMPT.md |
 | 8c2d318 | Jan 28 | CEO Dashboard (5 files, 2,620+ lines) |
@@ -158,6 +193,7 @@ The Master's Edge Business Program is FINISHED. All 3 tiers are complete:
 - ✅ Tier 1: 6 Quick Wins
 - ✅ Tier 2: 6 Flagship Systems
 - ✅ Tier 3: 3 Open Source Integrations
+- ✅ 4 Companion Software Apps (deployed on Vercel)
 
 Potential future enhancements (if desired):
 - Video walkthroughs for each system
@@ -165,6 +201,7 @@ Potential future enhancements (if desired):
 - Integration with specific GHL workflows
 - Member success story templates
 - Additional open source tools
+- App feature enhancements
 
 ## Important Files to Read First
 
@@ -176,11 +213,12 @@ Potential future enhancements (if desired):
 
 1. Read PROJECT-MANIFEST.md to understand the full scope
 2. The program is COMPLETE — maintain and enhance as requested
-3. Keep all files in the Masters Edge Business Program folder
-4. Follow the same naming conventions (UPPERCASE-WITH-HYPHENS.md)
-5. Update PROJECT-MANIFEST.md when adding new content
-6. Commit and push to GitHub when finishing significant work
-7. Quality over speed — these are products for paying customers
+3. Keep DOCUMENTATION in the Masters Edge Business Program folder
+4. Keep SOFTWARE in their respective project folders (listed above)
+5. Follow the same naming conventions (UPPERCASE-WITH-HYPHENS.md)
+6. Update PROJECT-MANIFEST.md when adding new documentation
+7. Commit and push to GitHub when finishing significant work
+8. Quality over speed — these are products for paying customers
 
 The Master's Edge Business Program is COMPLETE! 🎉
 ```
@@ -191,7 +229,7 @@ The Master's Edge Business Program is COMPLETE! 🎉
 
 | Resource | URL |
 |----------|-----|
-| **GitHub Repo** | https://github.com/BrettLechtenbrerg/Masters-Edge-Business-Program |
+| **Documentation GitHub** | https://github.com/BrettLechtenbrerg/Masters-Edge-Business-Program |
 | **Performance Review Pro** | https://performance-review-pro.vercel.app |
 | **Refferq Referral Engine** | https://refferq-referral-engine.vercel.app |
 | **Competitor Intel App** | https://ts-competitor-intel.vercel.app |
@@ -203,9 +241,13 @@ The Master's Edge Business Program is COMPLETE! 🎉
 
 | Location | Status | Notes |
 |----------|--------|-------|
-| **GitHub** | ✅ Synced | `e98c522` — working tree clean |
-| **Local** | ✅ Complete | `/Users/brettlechtenberg/Desktop/Claude Projects/Masters Edge Business Program/` |
+| **GitHub (Docs)** | ✅ Synced | `a49c7b1` — working tree clean |
+| **GitHub (Competitor Intel)** | ✅ Synced | `de76553` — font fix pushed |
+| **GitHub (Refferq)** | ✅ Synced | `5398920` — help button update |
+| **Local Docs** | ✅ Complete | `/Users/brettlechtenberg/Desktop/Claude Projects/Masters Edge Business Program/` |
+| **Local Apps** | ✅ Complete | See software table above |
 | **Desktop** | ✅ Delivery files | 8 Brand Book delivery files on Desktop |
+| **Vercel** | ✅ Deployed | All 4 apps live and working |
 
 ---
 
@@ -214,22 +256,24 @@ The Master's Edge Business Program is COMPLETE! 🎉
 Run these commands to verify everything is intact:
 
 ```bash
-# Check git status
+# Check documentation repo
 cd "/Users/brettlechtenberg/Desktop/Claude Projects/Masters Edge Business Program/"
-git status
-git log --oneline -5
+git status && git log --oneline -3
 
-# Count files
+# Count documentation files (Expected: 64)
 find . -name "*.md" -o -name "*.txt" | wc -l
-# Expected: 64
 
-# Count total lines
+# Count total lines (Expected: ~30,435)
 find . -type f \( -name "*.md" -o -name "*.txt" \) -print0 | xargs -0 wc -l | tail -1
-# Expected: ~30,390+
 
-# List all folders
+# List all folders (Expected: 15 folders)
 ls -d */
-# Expected: 15 folders (01 through 15)
+
+# Check all app repos
+cd "/Users/brettlechtenberg/Desktop/Claude Projects/competitor-intel" && git status --short
+cd "/Users/brettlechtenberg/Desktop/Claude Projects/Refferq-Referral-Engine" && git status --short
+cd "/Users/brettlechtenberg/Desktop/Claude Projects/CEO-Dashboard" && git status --short
+cd "/Users/brettlechtenberg/Desktop/Claude Projects/Performance Review Pro" && git status --short
 ```
 
 ---
@@ -272,7 +316,27 @@ TIER 3: OPEN SOURCE INTEGRATIONS (GHL-Native)
 │                                                                   │
 └───────────────────────────────────────────────────────────────────┘
 
-TOTAL: 15 Systems | 64 Files | 30,390+ Lines
+COMPANION SOFTWARE APPS (Deployed on Vercel)
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐   │
+│  │ PERFORMANCE     │  │    REFFERQ      │  │  COMPETITOR     │   │
+│  │ REVIEW PRO      │  │ REFERRAL ENGINE │  │    INTEL        │   │
+│  │                 │  │                 │  │                 │   │
+│  │ Next.js App     │  │ Next.js App     │  │ Next.js App     │   │
+│  │ Vercel Deployed │  │ Vercel Deployed │  │ Vercel Deployed │   │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘   │
+│                                                                   │
+│                       ┌─────────────────┐                        │
+│                       │  CEO DASHBOARD  │                        │
+│                       │                 │                        │
+│                       │ Next.js App     │                        │
+│                       │ Vercel Deployed │                        │
+│                       └─────────────────┘                        │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+
+TOTAL: 15 Systems | 64 Files | 30,435 Lines | 4 Apps
 ═══════════════════════════════════════════════════════════════════
 ```
 
