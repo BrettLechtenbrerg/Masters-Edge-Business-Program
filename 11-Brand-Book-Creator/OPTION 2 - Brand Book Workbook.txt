@@ -1,56 +1,48 @@
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                    ┌─────────────────┐                       ║
-║                    │                 │                        ║
-║                    │   YOUR LOGO     │                        ║
-║                    │     HERE        │                        ║
-║                    │                 │                        ║
-║                    └─────────────────┘                        ║
-║                                                              ║
-║                                                              ║
-║            B R A N D   B O O K   W O R K B O O K             ║
-║           ─────────────────────────────────────               ║
-║                                                              ║
-║               Build the playbook that keeps                  ║
-║            your business consistent, professional,           ║
-║              and recognizable as you grow.                   ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║         ┌──────────────────────────────────────┐             ║
-║         │                                      │             ║
-║         │  Business Name: ____________________ │             ║
-║         │                                      │             ║
-║         │  Your Name: ________________________ │             ║
-║         │                                      │             ║
-║         │  Date Started: _____________________ │             ║
-║         │                                      │             ║
-║         │  Date Completed: ___________________ │             ║
-║         │                                      │             ║
-║         └──────────────────────────────────────┘             ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║                                                              ║
-║   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─     ║
-║                                                              ║
-║              The Master's Edge Business Program              ║
-║                                                              ║
-║           Brought to you by Total Success AI                 ║
-║          "Automate the grind. Elevate the human."            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+══════════════════════════════════════════════════════════════
+
+                       COURSE WORKBOOK
+
+              B u i l d   Y o u r   B r a n d   B o o k
+          Your Complete Brand Identity & Messaging Guide
+
+                      ────────────────
+
+                    ┌─────────────────────┐
+                    │                     │
+                    │                     │
+                    │    [ YOUR IMAGE ]   │
+                    │                     │
+                    │                     │
+                    └─────────────────────┘
+
+
+                  ┌───────────────────────────┐
+                  │                           │
+                  │  15 Guided Sections Inside │
+                  │  Build Your Brand Playbook │
+                  │                           │
+                  └───────────────────────────┘
 
 
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  WELCOME
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                      ────────────────
+
+                      Total Success AI
+            Brett Lechtenberg & Manny Torres
+                     TotalSuccessAI.com
+
+══════════════════════════════════════════════════════════════
+
+
+
+
+══════════════════════════════════════════════════════════════
+  WELCOME                                    The Master's Edge
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
+──────────────────────────────────────────────────────────────
 
   You're about to build one of the most valuable documents
   your business will ever have — your Brand Book.
@@ -61,20 +53,19 @@
   polished, professional brand book you can share with your
   team, designers, and marketing people.
 
-  ┌─────────────────────────────────────────────────────────┐
-  │                                                         │
-  │  BEFORE YOU START                                       │
-  │                                                         │
-  │  • There are no wrong answers. Write naturally.         │
-  │  • Skip anything you're unsure about — the AI          │
-  │    will help fill gaps based on your other answers.     │
-  │  • Short answers are fine. Honest beats perfect.        │
-  │  • Take your time. Do it in one sitting or over a      │
-  │    week — whatever works for you.                       │
-  │                                                         │
-  │  ESTIMATED TIME: 30–60 minutes                          │
-  │                                                         │
-  └─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  BEFORE YOU START                                           │
+│                                                             │
+│  • There are no wrong answers. Write naturally.             │
+│  • Skip anything you're unsure about — the AI will help    │
+│    fill gaps based on your other answers.                   │
+│  • Short answers are fine. Honest beats perfect.            │
+│  • Take your time. Do it in one sitting or over a week.    │
+│                                                             │
+│  ESTIMATED TIME: 30–60 minutes                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
   WHEN YOU'RE FINISHED:
   Follow the instructions in the file called
@@ -82,11 +73,7 @@
   your completed workbook into your brand book.
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  YOUR PROGRESS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Check off each section as you complete it:
+  YOUR PROGRESS — Check off each section as you complete it:
 
   [ ]  1.  Brand Foundation          [ ]  9.  Visual Identity
   [ ]  2.  Brand Story               [ ] 10.  Typography
@@ -97,36 +84,39 @@
   [ ]  7.  Elevator Pitches          [ ] 15.  Output Preferences
   [ ]  8.  Key Messages
 
-
-
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                              ┃
-┃   PART ONE: WHO YOU ARE                                      ┃
-┃   Sections 1–2                                               ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-
 ──────────────────────────────────────────────────────────────
-  SECTION 1 OF 15
-  BRAND FOUNDATION
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 1: Brand Foundation                        5-8 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  This is the core of who you are — your reason for
-  existing and the beliefs that guide everything you do.
-  Everything else in your brand book builds on this.
+┌─────────────────────────────────────────────────────────────┐
+│ This is the core of who you are — your reason for existing │
+│ and the beliefs that guide everything you do. Everything   │
+│ else in your brand book builds on this.                    │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Write your business name and what you do
+2. Answer each question — be honest, not polished
+3. List 3–5 values that guide your decisions
+4. Review and move on when it feels right
 
-  BUSINESS NAME:
+
+  BUSINESS NAME
 
   __________________________________________________________
 
 
   ONE-SENTENCE DESCRIPTION
-  What do you do? In plain English, like you're
-  telling a neighbor.
+  What do you do? In plain English, like you're telling
+  a neighbor.
 
   __________________________________________________________
   __________________________________________________________
@@ -164,44 +154,59 @@
 
 
   CORE VALUES
-  List 3–5 principles that guide every decision in
-  your business. What do you stand for no matter what?
+  List 3–5 principles that guide every decision in your
+  business. What do you stand for no matter what?
 
-  ┌─────────────────────────────────────────────────────┐
-  │ Value 1: __________________________________________ │
-  │ What it means: ____________________________________ │
-  │ __________________________________________________ │
-  ├─────────────────────────────────────────────────────┤
-  │ Value 2: __________________________________________ │
-  │ What it means: ____________________________________ │
-  │ __________________________________________________ │
-  ├─────────────────────────────────────────────────────┤
-  │ Value 3: __________________________________________ │
-  │ What it means: ____________________________________ │
-  │ __________________________________________________ │
-  ├─────────────────────────────────────────────────────┤
-  │ Value 4: __________________________________________ │
-  │ What it means: ____________________________________ │
-  │ __________________________________________________ │
-  ├─────────────────────────────────────────────────────┤
-  │ Value 5: __________________________________________ │
-  │ What it means: ____________________________________ │
-  │ __________________________________________________ │
-  └─────────────────────────────────────────────────────┘
+  ┌───────────────────────────────────────────────────────┐
+  │ Value 1: ____________________________________________ │
+  │ What it means: ______________________________________ │
+  │ ____________________________________________________ │
+  ├───────────────────────────────────────────────────────┤
+  │ Value 2: ____________________________________________ │
+  │ What it means: ______________________________________ │
+  │ ____________________________________________________ │
+  ├───────────────────────────────────────────────────────┤
+  │ Value 3: ____________________________________________ │
+  │ What it means: ______________________________________ │
+  │ ____________________________________________________ │
+  ├───────────────────────────────────────────────────────┤
+  │ Value 4: ____________________________________________ │
+  │ What it means: ______________________________________ │
+  │ ____________________________________________________ │
+  ├───────────────────────────────────────────────────────┤
+  │ Value 5: ____________________________________________ │
+  │ What it means: ______________________________________ │
+  │ ____________________________________________________ │
+  └───────────────────────────────────────────────────────┘
 
-                                       Section 1 of 15 ✓
 
+▐ OUTCOME: Your purpose, vision, mission, and core values —
+▐ the foundation everything else builds on.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 2 OF 15
-  BRAND STORY
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 2: Brand Story                             5-7 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  Every great brand has a story. This is how your
-  customers connect with you emotionally — the real,
-  human reason behind what you do.
+┌─────────────────────────────────────────────────────────────┐
+│ Every great brand has a story. This is how your customers  │
+│ connect with you emotionally — the real, human reason      │
+│ behind what you do.                                        │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Think back to the beginning — what sparked this?
+2. Be real about the challenges you've faced
+3. Focus on how you change your customers' lives
+4. Don't overthink it — just tell the story
+
 
   HOW DID YOUR BUSINESS START?
   What sparked the idea?
@@ -239,29 +244,34 @@
   __________________________________________________________
   __________________________________________________________
 
-                                       Section 2 of 15 ✓
 
-
-
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                              ┃
-┃   PART TWO: HOW YOU SOUND                                    ┃
-┃   Sections 3–5                                               ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
+▐ OUTCOME: Your origin story and brand narrative — ready for
+▐ your "About Us" page, pitches, and team onboarding.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 3 OF 15
-  VOICE & TONE
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 3: Voice & Tone                            5-7 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  Your brand voice is HOW you communicate. It should
-  sound the same everywhere — website, social media,
-  emails, phone calls, in person.
+┌─────────────────────────────────────────────────────────────┐
+│ Your brand voice is HOW you communicate. It should sound   │
+│ the same everywhere — website, social media, emails,       │
+│ phone calls, in person.                                    │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Picture your brand as a real person
+2. Pick words that describe how you want to sound
+3. Identify what to AVOID sounding like
+4. Name brands you admire (this helps the AI nail your voice)
+
 
   IF YOUR BRAND WERE A PERSON AT A PARTY,
   HOW WOULD THEY ACT?
@@ -298,19 +308,33 @@
   __________________________________________________________
   __________________________________________________________
 
-                                       Section 3 of 15 ✓
 
+▐ OUTCOME: A clear voice description and tone guidelines so
+▐ every message sounds like YOU — not a robot, not a template.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 4 OF 15
-  COPY STYLE
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 4: Copy Style                              3-5 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  Now let's get specific. These are the nuts and bolts
-  of how your brand writes — the rules that keep every
-  email, post, and page sounding like you.
+┌─────────────────────────────────────────────────────────────┐
+│ These are the nuts and bolts of how your brand writes —    │
+│ the rules that keep every email, post, and page sounding   │
+│ like you.                                                  │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Answer quickly — go with your gut
+2. Think about how you'd naturally write to a customer
+3. Note any words that feel very "you" or very "not you"
+
 
   CONTRACTIONS?
   Do you say "we're" or "we are"?
@@ -352,38 +376,51 @@
 
   PUNCTUATION & FORMATTING
   Exclamation points? Emojis? Oxford comma?
-  All caps for emphasis?
 
   __________________________________________________________
   __________________________________________________________
 
-                                       Section 4 of 15 ✓
 
+▐ OUTCOME: Writing style guidelines, word preferences, and
+▐ formatting standards for anyone writing on your behalf.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 5 OF 15
-  BRAND PERSONALITY
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 5: Brand Personality                       3-5 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  Let's give your brand specific character traits that
-  make you memorable and relatable — like a person
-  people want to know.
+┌─────────────────────────────────────────────────────────────┐
+│ Let's give your brand specific character traits that make   │
+│ you memorable and relatable — like a person people want    │
+│ to know.                                                   │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Pick the archetype that feels closest to your brand
+2. List 5 human personality traits
+3. Write what you want people to say about you
+
 
   WHICH ARCHETYPE FITS YOUR BRAND BEST?
   Pick one or two that feel closest.
 
-  ┌──────────────────────────────────────────────────────┐
-  │                                                      │
-  │  [ ] The Helper  — You exist to serve others         │
-  │  [ ] The Expert  — You're the authority              │
-  │  [ ] The Rebel   — You challenge the status quo      │
-  │  [ ] The Friend  — You're approachable & relatable   │
-  │  [ ] The Creator — You innovate & build new things   │
-  │  [ ] The Leader  — You inspire & take charge         │
-  │                                                      │
-  └──────────────────────────────────────────────────────┘
+  ┌───────────────────────────────────────────────────────┐
+  │                                                       │
+  │  [ ] The Helper  — You exist to serve others          │
+  │  [ ] The Expert  — You're the authority               │
+  │  [ ] The Rebel   — You challenge the status quo       │
+  │  [ ] The Friend  — You're approachable & relatable    │
+  │  [ ] The Creator — You innovate & build new things    │
+  │  [ ] The Leader  — You inspire & take charge          │
+  │                                                       │
+  └───────────────────────────────────────────────────────┘
 
   Your pick: ______________________________________________
   Why this fits: __________________________________________
@@ -407,39 +444,45 @@
   __________________________________________________________
   __________________________________________________________
 
-                                       Section 5 of 15 ✓
 
-
-
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                              ┃
-┃   PART THREE: WHO YOU'RE TALKING TO                          ┃
-┃   Section 6                                                  ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
+▐ OUTCOME: Your brand archetype, personality traits, and
+▐ character summary — so your brand feels human and consistent.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 6 OF 15
-  TARGET AUDIENCE
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 6: Target Audience                         5-8 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  The clearer you define who you're talking to, the
-  more effective everything else becomes. Get specific.
+┌─────────────────────────────────────────────────────────────┐
+│ The clearer you define who you're talking to, the more     │
+│ effective everything else becomes. Get specific — think     │
+│ about ONE real person, not a crowd.                        │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Picture your BEST customer — the one you wish you had 100 of
+2. Fill in their demographics and what makes them tick
+3. Describe their life before and after finding you
+4. Note where they spend time (this helps your marketing)
+
 
   YOUR IDEAL CUSTOMER — DEMOGRAPHICS
 
-  ┌──────────────────────────────────────────────────────┐
-  │ Age range:      ___________________________________  │
-  │ Location:       ___________________________________  │
-  │ Job / role:     ___________________________________  │
-  │ Income level:   ___________________________________  │
-  │ Education:      ___________________________________  │
-  │ Other details:  ___________________________________  │
-  └──────────────────────────────────────────────────────┘
+  ┌───────────────────────────────────────────────────────┐
+  │ Age range:      _____________________________________│
+  │ Location:       _____________________________________│
+  │ Job / role:     _____________________________________│
+  │ Income level:   _____________________________________│
+  │ Education:      _____________________________________│
+  │ Other details:  _____________________________________│
+  └───────────────────────────────────────────────────────┘
 
 
   YOUR IDEAL CUSTOMER — PSYCHOGRAPHICS
@@ -491,28 +534,33 @@
   __________________________________________________________
   __________________________________________________________
 
-                                       Section 6 of 15 ✓
 
-
-
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                              ┃
-┃   PART FOUR: WHAT YOU SAY                                    ┃
-┃   Sections 7–8                                               ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
+▐ OUTCOME: A detailed audience profile and customer avatar
+▐ with a before/after transformation statement.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 7 OF 15
-  ELEVATOR PITCHES
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 7: Elevator Pitches                        5-7 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  Quick descriptions of your brand for different
-  situations — from a handshake to a conversation.
+┌─────────────────────────────────────────────────────────────┐
+│ Quick descriptions of your brand for different situations   │
+│ — from a handshake to a full conversation. You'll use      │
+│ these everywhere: networking, bios, social media, meetings.│
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Write your one-sentence pitch first (the hardest one!)
+2. Expand into a 30-second version
+3. Think about whether different audiences need different pitches
+
 
   ONE SENTENCE
   How would you describe your business to a stranger?
@@ -536,32 +584,48 @@
   DOES YOUR PITCH CHANGE FOR DIFFERENT AUDIENCES?
   If yes, how would you describe yourself to each?
 
-  ┌──────────────────────────────────────────────────────┐
-  │ Audience 1 (_______________):                        │
-  │ ___________________________________________________  │
-  │ ___________________________________________________  │
-  ├──────────────────────────────────────────────────────┤
-  │ Audience 2 (_______________):                        │
-  │ ___________________________________________________  │
-  │ ___________________________________________________  │
-  ├──────────────────────────────────────────────────────┤
-  │ Audience 3 (_______________):                        │
-  │ ___________________________________________________  │
-  │ ___________________________________________________  │
-  └──────────────────────────────────────────────────────┘
+  ┌───────────────────────────────────────────────────────┐
+  │ Audience 1 (_______________):                         │
+  │ _____________________________________________________ │
+  │ _____________________________________________________ │
+  ├───────────────────────────────────────────────────────┤
+  │ Audience 2 (_______________):                         │
+  │ _____________________________________________________ │
+  │ _____________________________________________________ │
+  ├───────────────────────────────────────────────────────┤
+  │ Audience 3 (_______________):                         │
+  │ _____________________________________________________ │
+  │ _____________________________________________________ │
+  └───────────────────────────────────────────────────────┘
 
-                                       Section 7 of 15 ✓
 
+▐ OUTCOME: Ready-to-use pitches for networking, social media
+▐ bios, and any "so what do you do?" conversation.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 8 OF 15
-  KEY MESSAGES
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 8: Key Messages                            5-7 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  These are your core talking points — the messages
-  you want people to remember and repeat about you.
+┌─────────────────────────────────────────────────────────────┐
+│ These are your core talking points — the messages you want │
+│ people to remember and repeat about you. Think of them as  │
+│ the headlines of your brand.                               │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Identify the ONE thing you want everyone to know
+2. Back it up with 3–4 supporting points
+3. List your proof (numbers, awards, testimonials)
+4. Name what makes you different from competitors
+
 
   THE ONE THING
   What's the single most important thing you want
@@ -575,19 +639,19 @@
   3–4 SUPPORTING POINTS
   What backs up that main message?
 
-  ┌──────────────────────────────────────────────────────┐
-  │ 1. ________________________________________________  │
-  │    ________________________________________________  │
-  ├──────────────────────────────────────────────────────┤
-  │ 2. ________________________________________________  │
-  │    ________________________________________________  │
-  ├──────────────────────────────────────────────────────┤
-  │ 3. ________________________________________________  │
-  │    ________________________________________________  │
-  ├──────────────────────────────────────────────────────┤
-  │ 4. ________________________________________________  │
-  │    ________________________________________________  │
-  └──────────────────────────────────────────────────────┘
+  ┌───────────────────────────────────────────────────────┐
+  │ 1. __________________________________________________ │
+  │    __________________________________________________ │
+  ├───────────────────────────────────────────────────────┤
+  │ 2. __________________________________________________ │
+  │    __________________________________________________ │
+  ├───────────────────────────────────────────────────────┤
+  │ 3. __________________________________________________ │
+  │    __________________________________________________ │
+  ├───────────────────────────────────────────────────────┤
+  │ 4. __________________________________________________ │
+  │    __________________________________________________ │
+  └───────────────────────────────────────────────────────┘
 
 
   PROOF POINTS
@@ -607,28 +671,33 @@
   __________________________________________________________
   __________________________________________________________
 
-                                       Section 8 of 15 ✓
 
-
-
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                              ┃
-┃   PART FIVE: HOW YOU LOOK                                    ┃
-┃   Sections 9–10                                              ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
+▐ OUTCOME: Your primary message, supporting points, proof,
+▐ and competitive differentiation — your brand's talking points.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 9 OF 15
-  VISUAL IDENTITY
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 9: Visual Identity                         5-7 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  How your brand LOOKS. Even if you already have a logo
-  and colors, let's document the "why" behind them.
+┌─────────────────────────────────────────────────────────────┐
+│ How your brand LOOKS. Even if you already have a logo and  │
+│ colors, let's document the "why" behind them so anyone     │
+│ designing for you stays on-brand.                          │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Document what you already have (logo, colors)
+2. Describe the feeling you want visuals to create
+3. Note what kind of images feel right for your brand
+
 
   DO YOU HAVE AN EXISTING LOGO?
   Describe it — or paste a link to it.
@@ -640,12 +709,12 @@
   YOUR BRAND COLORS
   List them with hex codes if you have them.
 
-  ┌──────────────────────────────────────────────────────┐
-  │ Primary color:    ___________________  Hex: ________ │
-  │ Secondary color:  ___________________  Hex: ________ │
-  │ Accent color:     ___________________  Hex: ________ │
-  │ Other colors:     ___________________  Hex: ________ │
-  └──────────────────────────────────────────────────────┘
+  ┌───────────────────────────────────────────────────────┐
+  │ Primary color:    ___________________  Hex: ________  │
+  │ Secondary color:  ___________________  Hex: ________  │
+  │ Accent color:     ___________________  Hex: ________  │
+  │ Other colors:     ___________________  Hex: ________  │
+  └───────────────────────────────────────────────────────┘
 
 
   WHAT FEELING SHOULD YOUR VISUALS EVOKE?
@@ -670,27 +739,40 @@
   __________________________________________________________
   __________________________________________________________
 
-                                       Section 9 of 15 ✓
 
+▐ OUTCOME: Visual identity overview, color guidelines,
+▐ and image style direction for any designer.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 10 OF 15
-  TYPOGRAPHY
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 10: Typography                             2-3 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  Fonts communicate more than words. The right fonts
-  reinforce your brand personality in everything you
-  publish.
+┌─────────────────────────────────────────────────────────────┐
+│ Fonts communicate more than words. The right fonts         │
+│ reinforce your brand personality in everything you publish. │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. List any fonts you already use
+2. Describe the feeling you want your fonts to give
+3. Note if you want different fonts for headings vs body text
+
 
   DO YOU ALREADY USE SPECIFIC FONTS?
 
-  ┌──────────────────────────────────────────────────────┐
-  │ Heading font: __________________________________     │
-  │ Body font:    __________________________________     │
-  │ Other fonts:  __________________________________     │
-  └──────────────────────────────────────────────────────┘
+  ┌───────────────────────────────────────────────────────┐
+  │ Heading font: ______________________________________ │
+  │ Body font:    ______________________________________ │
+  │ Other fonts:  ______________________________________ │
+  └───────────────────────────────────────────────────────┘
 
 
   WHAT FEELING SHOULD YOUR FONTS GIVE?
@@ -706,28 +788,32 @@
   __________________________________________________________
   __________________________________________________________
 
-                                      Section 10 of 15 ✓
 
-
-
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                              ┃
-┃   PART SIX: HOW PEOPLE FIND YOU                              ┃
-┃   Sections 11–12                                             ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
+▐ OUTCOME: Typography recommendations, hierarchy, and
+▐ usage guidelines for your brand.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 11 OF 15
-  BRAND HASHTAGS
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 11: Brand Hashtags                         2-3 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  Hashtags help people discover you on social media.
-  Let's create a strategic set you can use everywhere.
+┌─────────────────────────────────────────────────────────────┐
+│ Hashtags help people discover you on social media. Let's   │
+│ create a strategic set you can use everywhere.             │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Think of a unique hashtag just for your brand
+2. List hashtags your audience already follows
+3. Note the topics you regularly post about
+
 
   DO YOU HAVE A UNIQUE BRANDED HASHTAG?
   Example: Nike = #JustDoIt
@@ -749,19 +835,34 @@
   __________________________________________________________
   __________________________________________________________
 
-                                      Section 11 of 15 ✓
 
+▐ OUTCOME: A complete hashtag strategy — branded, industry,
+▐ and content category hashtags ready for social media.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 12 OF 15
-  KEYWORDS
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 12: Keywords                               3-5 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  These are the terms people use to find businesses
-  like yours. Critical for your website, content, and
-  showing up in search results.
+┌─────────────────────────────────────────────────────────────┐
+│ These are the terms people use to find businesses like     │
+│ yours. Critical for your website, content, and showing     │
+│ up in search results.                                      │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Think about what your customers would Google
+2. List terms that describe what you offer
+3. Include location keywords if you serve a specific area
+4. Name the problems you solve (people search for problems!)
+
 
   WHAT WOULD YOUR IDEAL CUSTOMER TYPE INTO GOOGLE
   TO FIND YOU?
@@ -793,28 +894,33 @@
   __________________________________________________________
   __________________________________________________________
 
-                                      Section 12 of 15 ✓
 
-
-
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                              ┃
-┃   PART SEVEN: PROTECTING YOUR BRAND                          ┃
-┃   Sections 13–14                                             ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
+▐ OUTCOME: Primary, secondary, and long-tail keywords
+▐ optimized for SEO and content marketing.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 13 OF 15
-  TRADEMARK USAGE
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 13: Trademark Usage                        2-3 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  Let's document how your brand name and trademarked
-  elements should (and shouldn't) be used.
+┌─────────────────────────────────────────────────────────────┐
+│ Let's document how your brand name and trademarked         │
+│ elements should (and shouldn't) be used — so nobody        │
+│ messes up your name.                                       │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Write your exact legal business name
+2. Note any trademarks (existing or in progress)
+3. List acceptable nicknames and what's NOT okay
+
 
   EXACT LEGAL BUSINESS NAME:
 
@@ -845,19 +951,33 @@
   __________________________________________________________
   __________________________________________________________
 
-                                      Section 13 of 15 ✓
 
+▐ OUTCOME: Official name guidelines, acceptable variations,
+▐ and usage do's and don'ts.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 14 OF 15
-  USAGE GUIDELINES
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 14: Usage Guidelines                       3-5 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  Clear do's and don'ts so anyone representing your
-  brand stays consistent — employees, contractors,
-  designers, everyone.
+┌─────────────────────────────────────────────────────────────┐
+│ Clear do's and don'ts so anyone representing your brand    │
+│ stays consistent — employees, contractors, designers,      │
+│ everyone.                                                  │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Think about brand mistakes that annoy you
+2. List your non-negotiables (things that MUST always be true)
+3. Note where there's room for creativity
+
 
   WHAT BRAND INCONSISTENCIES ANNOY YOU?
   What have you seen that drives you crazy?
@@ -883,99 +1003,121 @@
   __________________________________________________________
   __________________________________________________________
 
-                                      Section 14 of 15 ✓
 
-
-
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                              ┃
-┃   FINAL STEP: CHOOSE YOUR OUTPUT                             ┃
-┃   Section 15                                                 ┃
-┃                                                              ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
+▐ OUTCOME: 10 brand do's, 10 brand don'ts, approval guidelines,
+▐ and a consistency checklist for your team.
 
 ──────────────────────────────────────────────────────────────
-  SECTION 15 OF 15
-  OUTPUT PREFERENCES
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
+
+
+
+
+══════════════════════════════════════════════════════════════
+  Section 15: Output Preferences                     1-2 MIN
+══════════════════════════════════════════════════════════════
+  Total Success AI Course Workbook
 ──────────────────────────────────────────────────────────────
 
-  When your workbook is processed, you can receive
-  up to FIVE different versions of your brand book.
-  Check the ones you want:
+┌─────────────────────────────────────────────────────────────┐
+│ When your workbook is processed, you can receive up to     │
+│ FIVE different versions of your brand book. Check the      │
+│ ones you want.                                             │
+└─────────────────────────────────────────────────────────────┘
 
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+YOUR STEPS:
+1. Read through the 5 options below
+2. Check the ones you want (or pick all five!)
+3. That's it — you're done!
 
-  ┌──────────────────────────────────────────────────────┐
-  │                                                      │
-  │  [ ] 1. COMPLETE BRAND BOOK                          │
-  │        Full 15-section document with table of        │
-  │        contents. Your master reference.              │
-  │        Best for: You, leadership, brand archives     │
-  │                                                      │
-  │  [ ] 2. QUICK REFERENCE CARD                         │
-  │        One-page cheat sheet: mission, values,        │
-  │        voice, colors, fonts, pitch.                  │
-  │        Best for: Daily decisions, quick reference    │
-  │                                                      │
-  │  [ ] 3. SOCIAL MEDIA KIT                             │
-  │        Platform bios, hashtags, key messages,        │
-  │        voice guide, content keywords.                │
-  │        Best for: Marketing team, social managers     │
-  │                                                      │
-  │  [ ] 4. EMPLOYEE ONBOARDING GUIDE                    │
-  │        Values, personality, voice, story,            │
-  │        do's and don'ts.                              │
-  │        Best for: New hires, contractors              │
-  │                                                      │
-  │  [ ] 5. DESIGNER BRIEF                               │
-  │        Color palette with hex codes, fonts,          │
-  │        logo rules, image style.                      │
-  │        Best for: Designers, web developers           │
-  │                                                      │
-  │  TIP: Not sure? Pick "all five" — you can use       │
-  │  whichever ones you need later.                      │
-  │                                                      │
-  └──────────────────────────────────────────────────────┘
+
+  ┌───────────────────────────────────────────────────────┐
+  │                                                       │
+  │  [ ] 1. COMPLETE BRAND BOOK                           │
+  │        Full 15-section document with table of         │
+  │        contents. Your master reference.               │
+  │        Best for: You, leadership, brand archives      │
+  │                                                       │
+  │  [ ] 2. QUICK REFERENCE CARD                          │
+  │        One-page cheat sheet: mission, values,         │
+  │        voice, colors, fonts, pitch.                   │
+  │        Best for: Daily decisions, quick reference     │
+  │                                                       │
+  │  [ ] 3. SOCIAL MEDIA KIT                              │
+  │        Platform bios, hashtags, key messages,         │
+  │        voice guide, content keywords.                 │
+  │        Best for: Marketing team, social managers      │
+  │                                                       │
+  │  [ ] 4. EMPLOYEE ONBOARDING GUIDE                     │
+  │        Values, personality, voice, story,             │
+  │        do's and don'ts.                               │
+  │        Best for: New hires, contractors               │
+  │                                                       │
+  │  [ ] 5. DESIGNER BRIEF                                │
+  │        Color palette with hex codes, fonts,           │
+  │        logo rules, image style.                       │
+  │        Best for: Designers, web developers            │
+  │                                                       │
+  │  PRO TIP: Not sure? Pick "all five" — you can use    │
+  │  whichever ones you need later.                       │
+  │                                                       │
+  └───────────────────────────────────────────────────────┘
 
   Your choice: ____________________________________________
 
-                                      Section 15 of 15 ✓
+
+▐ OUTCOME: Your brand book will be generated in whichever
+▐ formats you selected — ready to copy into Google Docs, Word,
+▐ or Notion.
+
+──────────────────────────────────────────────────────────────
+TotalSuccessAI.com • Brett Lechtenberg & Manny Torres
 
 
 
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                                                              ║
-║                   YOU DID IT!                                 ║
-║                                                              ║
-║       Your workbook is complete. Here's what to do next:     ║
-║                                                              ║
-║       1. Save this file                                      ║
-║       2. Open the file called:                               ║
-║          "OPTION 2 - Paste This With Your Answers"           ║
-║       3. Follow those instructions to turn your answers      ║
-║          into a polished, professional brand book             ║
-║                                                              ║
-║       Your brand book will be generated in whichever         ║
-║       formats you selected in Section 15.                    ║
-║                                                              ║
-║                                                              ║
-║   ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─     ║
-║                                                              ║
-║              The Master's Edge Business Program              ║
-║                                                              ║
-║                  ┌─────────────────┐                         ║
-║                  │                 │                          ║
-║                  │  TOTAL SUCCESS  │                          ║
-║                  │      AI         │                          ║
-║                  │                 │                          ║
-║                  └─────────────────┘                          ║
-║                                                              ║
-║          "Automate the grind. Elevate the human."            ║
-║                                                              ║
-║                  totalsuccessai.com                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+══════════════════════════════════════════════════════════════
+
+
+                        You Did It!
+
+         Now you have the answers. Time to build your
+                      brand book.
+
+
+              ┌─────────────────────────────────┐
+              │                                 │
+              │         YOUR NEXT STEP          │
+              │                                 │
+              │   Open the file called:         │
+              │   "OPTION 2 - Paste This        │
+              │    With Your Answers"           │
+              │                                 │
+              │   Follow those instructions     │
+              │   to turn your answers into     │
+              │   a polished, professional      │
+              │   brand book.                   │
+              │                                 │
+              └─────────────────────────────────┘
+
+
+                    What You'll Get:
+
+         ✓ Polished brand book in your chosen formats
+         ✓ Professional language based on YOUR answers
+         ✓ Ready to copy into Google Docs, Word, or Notion
+         ✓ Shareable with your team immediately
+
+
+
+
+                      ────────────────
+
+                      Total Success AI
+            Brett Lechtenberg & Manny Torres
+                     TotalSuccessAI.com
+
+          "Automate the grind. Elevate the human."
+
+
+══════════════════════════════════════════════════════════════
