@@ -1,0 +1,109 @@
+============================================
+HOW TO BUILD YOUR BRAND BOOK
+OPTION 2: WORKBOOK METHOD
+============================================
+
+This method lets you fill out a workbook at your own
+pace, then use AI to turn your answers into a polished,
+professional brand book.
+
+Works with: Claude (claude.ai) or ChatGPT (chat.openai.com)
+
+Time: 30-60 minutes for the workbook, 5 minutes for AI
+
+
+============================================
+
+STEP 1: FILL OUT YOUR WORKBOOK
+
+Open "OPTION 2 - Brand Book Workbook.txt"
+
+Go through all 15 sections and fill in your answers.
+Take your time — there's no rush. You can save and
+come back to it whenever you want.
+
+TIPS:
+  - Write naturally, like you're talking to a friend
+  - Skip sections you're unsure about (the AI will help)
+  - Short answers are totally fine
+  - Don't overthink it — honest beats perfect
+
+
+============================================
+
+STEP 2: OPEN YOUR AI TOOL
+
+Go to one of these:
+  - Claude: claude.ai
+  - ChatGPT: chat.openai.com
+
+Start a new conversation.
+
+
+============================================
+
+STEP 3: PASTE THE SYNTHESIS PROMPT
+
+Open "OPTION 2 - Paste This With Your Answers.txt"
+
+Copy ONLY the text between START and STOP.
+Paste it into the chat.
+Press Enter.
+
+
+============================================
+
+STEP 4: PASTE YOUR WORKBOOK ANSWERS
+
+Now go back to your completed workbook.
+Select ALL of your answers (Ctrl+A or Cmd+A).
+Paste them into the same chat.
+Press Enter.
+
+
+============================================
+
+STEP 5: GET YOUR BRAND BOOK
+
+The AI will read everything you wrote and start creating
+your polished brand book in whichever formats you
+selected in Section 15 of the workbook.
+
+It will create one version at a time and ask if you're
+ready for the next one.
+
+
+============================================
+
+WHICH OPTION IS RIGHT FOR ME?
+
+OPTION 1 (Guided Conversation):
+  - AI asks you questions one at a time
+  - Like having a consultant walk you through it
+  - Best if you like being guided step by step
+  - Takes 45-90 minutes in one sitting
+
+OPTION 2 (This Workbook Method):
+  - You fill out a workbook at your own pace
+  - AI polishes your answers into a brand book
+  - Best if you like to think before you write
+  - Fill out over days/weeks, then 5 min with AI
+
+
+============================================
+
+TIPS FOR BEST RESULTS
+
+  - Fill in as many sections as you can
+  - The more you give the AI, the better your brand book
+  - You can always ask the AI to revise something
+  - Say "make that sound more like me" if anything
+    feels too corporate or generic
+  - If you skipped sections, the AI will suggest answers
+    based on everything else you shared
+
+
+============================================
+Part of The Master's Edge Business Program
+"Automate the grind. Elevate the human."
+============================================
