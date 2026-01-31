@@ -3,9 +3,10 @@
 
 ---
 
-**Last Updated:** January 28, 2026 (5:20 AM MST)
-**Status:** ✅ ALL 3 TIERS COMPLETE + 4 COMPANION APPS
-**Documentation Commit:** `a49c7b1` — RESTART-PROMPT.md updated
+**Last Updated:** January 31, 2026 (8:30 AM MST)
+**Status:** ✅ ALL 3 TIERS COMPLETE + 4 TIER 3 APPS + 2 TIER 2 COMPANION APPS (Builds 1-2 of 6)
+**Documentation Commit:** `57ff3be` — Masters Edge docs
+**Build Tracker:** See `/Users/brettlechtenberg/Desktop/Claude Projects/Brand-Book-Creator/RESTART-PROMPT.md` for companion app build details
 **All Repos:** Clean — all changes committed and pushed
 
 ---
@@ -114,19 +115,33 @@ This system has TWO delivery options:
 | P&L Financial Metrics | 40+ |
 | GHL Custom Fields Defined | 21 |
 | GHL Workflows Defined | 5 |
-| Companion Software Apps | 4 |
+| Tier 3 Companion Apps | 4 |
+| Tier 2 Companion Apps (Builds 1-6) | 2 of 6 complete |
 
 ## 🖥️ COMPANION SOFTWARE APPLICATIONS
 
 These are SEPARATE Next.js apps in their own GitHub repos, deployed on Vercel.
 They complement the documentation in the Learning Portal.
 
+### Tier 2 Companion Apps (Build 1-6 Series — 2 of 6 Complete)
+| # | App | Local Path | GitHub | Live URL | Status |
+|---|-----|------------|--------|----------|--------|
+| 1 | **Brand Book Creator** | `/Users/brettlechtenberg/Desktop/Claude Projects/Brand-Book-Creator/` | BrettLechtenbrerg/Brand-Book-Creator | ts-brand-book-creator.vercel.app | ✅ COMPLETE |
+| 2 | **P&L Creation System** | `/Users/brettlechtenberg/Desktop/Claude Projects/p-l-creation-system/` | BrettLechtenbrerg/P-L-Creation-System | p-l-creation-system.vercel.app | ✅ COMPLETE |
+| 3 | **Delegation Engine** | TBD | TBD | TBD | NOT STARTED |
+| 4 | **SOP Factory** | TBD | TBD | TBD | NOT STARTED |
+| 5 | **Hiring Oracle** | TBD | TBD | TBD | NOT STARTED |
+| 6 | **Difficult Conversations Coach** | TBD | TBD | TBD | NOT STARTED |
+
+**Build Tracker (detailed):** `/Users/brettlechtenberg/Desktop/Claude Projects/Brand-Book-Creator/RESTART-PROMPT.md`
+
+### Tier 3 Companion Apps (Original 4)
 | App | Local Path | GitHub | Live URL |
 |-----|------------|--------|----------|
-| **Performance Review Pro** | `/Users/brettlechtenberg/Desktop/Claude Projects/Performance Review Pro/` | github.com/BrettLechtenbrerg/Performance-Review-Pro | performance-review-pro.vercel.app |
-| **Refferq Referral Engine** | `/Users/brettlechtenberg/Desktop/Claude Projects/Refferq-Referral-Engine/` | github.com/BrettLechtenbrerg/Refferq-Referral-Engine | refferq-referral-engine.vercel.app |
-| **Competitor Intel** | `/Users/brettlechtenberg/Desktop/Claude Projects/competitor-intel/` | github.com/BrettLechtenbrerg/Competitor-Intel | ts-competitor-intel.vercel.app |
-| **CEO Dashboard** | `/Users/brettlechtenberg/Desktop/Claude Projects/CEO-Dashboard/` | github.com/BrettLechtenbrerg/CEO-Dashboard | ts-ceo-dashboard.vercel.app |
+| **Performance Review Pro** | `/Users/brettlechtenberg/Desktop/Claude Projects/Performance Review Pro/` | BrettLechtenbrerg/Performance-Review-Pro | performance-review-pro.vercel.app |
+| **Refferq Referral Engine** | `/Users/brettlechtenberg/Desktop/Claude Projects/Refferq-Referral-Engine/` | BrettLechtenbrerg/Refferq-Referral-Engine | refferq-referral-engine.vercel.app |
+| **Competitor Intel** | `/Users/brettlechtenberg/Desktop/Claude Projects/competitor-intel/` | BrettLechtenbrerg/Competitor-Intel | ts-competitor-intel.vercel.app |
+| **CEO Dashboard** | `/Users/brettlechtenberg/Desktop/Claude Projects/CEO-Dashboard/` | BrettLechtenbrerg/CEO-Dashboard | ts-ceo-dashboard.vercel.app |
 
 ### Latest App Commits
 | App | Commit | Description |
